@@ -30,4 +30,3 @@ Utilice algunas etiquetas html que nunca antes haya usado.
 
 ### Instrucciones para entregar el laboratorio
 Envía la URL de tu sitio con páginas de GitHub (en vivo). Revisa también lo que otras personas construyeron.
-prueba 102.
