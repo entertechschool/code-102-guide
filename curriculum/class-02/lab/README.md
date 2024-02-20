@@ -1,10 +1,10 @@
 # Power Tools
 
-Tener la herramienta adecuada puede hacer que algo "difícil" de repente sea mucho más alcanzable. Prepárate para el éxito obteniendo las herramientas adecuadas y comenzando a aprenderlas.
+Tener la herramienta adecuada puede hacer que algo "difícil" sea mucho más alcanzable. Prepárate para el éxito obteniendo las herramientas adecuadas y comenzando a aprenderlas.
 
 ## Configuración y documentación
 
-Sigue la [Guía de configuración de la computadora](https://codefellows.github.io/setup-guide/){:target="_blank"} para preparar tu máquina de desarrollo para una codificación seria.
+Sigue la [Guía de configuración de la computadora](https://codefellows.github.io/setup-guide/){:target="_blank"} para preparar tu máquina y estes listo para codificar.
 
 Esto requiere seguir cuidadosamente las instrucciones y potencialmente interpretar mensajes de error. ¡Practica esas habilidades orientadas a los detalles! Tómate las cosas con calma y, si algo sale mal, no dudes en buscar ayuda.
 
@@ -27,7 +27,7 @@ Además, los siguientes comandos le mostrarán cómo configurar algunos elemento
 
 ### Extender los objetivos
 
-Ahora que tiene tu elegante Terminal en funcionamiento, regresa a la tarea de Lectura y sige tu propia versión de los comandos en tu computadora.
+Ahora que tiene tu Terminal en funcionamiento, regresa a la tarea de Lectura y realiza tu propia versión de los comandos en tu computadora.
 
 ### Instrucciones de envío
 
