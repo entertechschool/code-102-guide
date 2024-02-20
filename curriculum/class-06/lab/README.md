@@ -2,7 +2,7 @@
 
 ##  Configuración y documentación
 
-Revisa el wireframe de tu página. Mira el contenido y seleccione algunos lugares donde podría agregar algo dinámico.
+Revisa el wireframe de tu página. Mira el contenido y seleccione algunos lugares donde podrías agregar algo dinámico.
 
 ## Requisitos
 
