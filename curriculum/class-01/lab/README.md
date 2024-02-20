@@ -24,7 +24,7 @@ Utiliza estos recursos para ponerte en marcha:
 
 ### Extender los objetivos
 
-¡Refuerza tu página de perfil! Añade una imagen, una biografía, información de contacto... todo lo que te resulte cómodo incluir. Recuerda, esta página actuará como una muestra de tus habilidades de desarrollador, ¡así que haz que se vea genial!
+¡Refuerza tu página de perfil! Añade tu imagen, tu biografía, información de contacto... todo lo que te resulte cómodo incluir. Recuerda, esta página actuará como una muestra de tus habilidades de desarrollador, ¡así que haz que se vea genial!
 
 ### Instrucciones de envío
 
