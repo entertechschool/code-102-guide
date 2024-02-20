@@ -2,7 +2,7 @@
 
 A continuación se muestra una colección de recursos de distintos tipos y longitudes que describen los temas de la próxima conferencia.
 
-Revisa estos recursos y **agrega una nueva página a tu sitio web de notas de lectura** que resuma los temas que aprendistes como si estuviera presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
+Revisa estos recursos y **agrega una nueva página a tu sitio web de notas de lectura** que resuma los temas que aprendistes como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
 
 <strong style="color: green">Recordatorio:</strong> *todas tus tareas de notas de lectura deben realizarse localmente, en VS Code. ¡Los nuevos archivos y cambios se reflejarán en GitHub usando tus nuevas habilidades de Git-flow! (Recuerda... A-C-P)*
 
