@@ -5,7 +5,7 @@ A continuación se muestra una colección de recursos de diferentes tipos y long
 Revisa estos recursos y **crea una página en tu repositorio de notas de lectura** que resuma los temas que aprendistes como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
 
 
-Ideas de notas de lectura:
+Ideas de notas:
 
 * Artículo de blog (2-3 párrafos con código de muestra)
 * Diccionario / Tarjetas Flash
