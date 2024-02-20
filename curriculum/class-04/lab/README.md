@@ -2,10 +2,10 @@
 Sabemos que Markdown + Github Pages es una combinación poderosa para crear sitios web rápidamente. Para pasar al siguiente nivel, es hora de que volvamos a crear nuestras páginas web desde cero, línea por línea.
 
 ## Configuración y Documentación
-Revisa el proceso de creación de un 'web site', de tus lecturas.
+Revise el proceso de creación de un 'web site', de tus lecturas.
 
 ## Requerimientos
-Asóciate. Decide un tema para el sitio web que deseas crear. Cada persona será responsable de 1 página del sitio.
+Asóciate. Decide un tema para el 'web site' que deseas crear. Cada persona será responsable de 1 página del sitio.
 
 1. Juntos, dibujen un "wireframe" en una pizarra, que pueda usarse para todas las páginas de su sitio.
     - Mantener en baja fidelidad.
@@ -26,7 +26,7 @@ Asóciate. Decide un tema para el sitio web que deseas crear. Cada persona será
     - Vincular las páginas para que un usuario pueda navegar a ambas páginas.
   
 ### Logros adicionales
-Utilice algunas etiquetas html que nunca antes haya usado.
+Utiliza algunas etiquetas html que nunca antes hayas usado.
 
 ### Instrucciones para entregar el laboratorio
 Envía la URL de tu sitio con páginas de GitHub (en vivo). Revisa también lo que otras personas construyeron.
