@@ -7,7 +7,7 @@ Proponte un desafío de aprendizaje: descubre cómo publicar un sitio web de pá
 
 Utiliza estos recursos para ponerte en marcha:
 
-- [Mentalidad de crecimiento](https://www.atlassian.com/blog/inside-atlassian/growth-mindset){:target="_blank"}
+- [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset){:target="_blank"}
 - [Markdown en GitHub](https://help.github.com/en/articles/basic-writing-and-formatting-syntax){:target="_blank"}
 - [Creación de un sitio de páginas de GitHub](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site){:target="_blank" }
 
@@ -17,7 +17,7 @@ Utiliza estos recursos para ponerte en marcha:
 1. Tu sitio debe existir en `https://USERNAME.github.io/reading-notes/`
 1. La "fuente" de tu sitio debe ser un archivo README.md, escrito con Markdown
 1. En la página principal:
-     - Explica la "mentalidad de crecimiento" con tus propias palabras.
+     - Explica la "Growth Mindset" con tus propias palabras.
      - Incluye 3 recordatorios sobre cómo mantenerte con una mentalidad de crecimiento
 1. Utiliza al menos 5 funciones diferentes de Markdown para estructurar tu página
 1. Asegúrate de presentarte e incluir un enlace a la página de tu portafolio de GitHub.
