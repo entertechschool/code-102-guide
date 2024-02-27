@@ -27,7 +27,7 @@ Además, los siguientes comandos le mostrarán cómo configurar algunos elemento
 
 ### Extender los objetivos
 
-Ahora que tiene tu Terminal en funcionamiento, regresa a la tarea de Lectura y realiza tu propia versión de los comandos en tu computadora.
+Ahora que tienes tu Terminal en funcionamiento, regresa a la tarea de Lectura y realiza tu propia versión de los comandos en tu computadora.
 
 ### Instrucciones de envío
 
