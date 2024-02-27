@@ -2,7 +2,7 @@
 
 A continuación se muestra una colección de recursos de distintos tipos y longitudes que describen los temas de la próxima conferencia.
 
-Revisa estos recursos y **crea una página en tu repositorio de notas de lectura** que resuma lo que aprendistes como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
+Revisa estos recursos y **crea una página en tu repositorio de notas de lectura** que resuma lo que aprendiste como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
 
 
 Ideas de notas:
@@ -33,7 +33,7 @@ Las siguientes páginas te brindarán una introducción paso a paso sobre el uso
     3. `cd`
     4. `mkdir`
     5. `touch`
-3. ¿Puedes explicar qué sucede en el siguiente escenario si estos comandos y argumentos se ingresan en la línea de comando? (Los argumentos son instrucciones adicionales dadas a un comando).
+3. ¿Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comando? (Los argumentos son instrucciones adicionales dadas a un comando).
     1. `cd projects`
     2. `mkdir new-project`
     3. `touch new-project/newfile.md`
@@ -44,6 +44,6 @@ Las siguientes páginas te brindarán una introducción paso a paso sobre el uso
 
 
 * Comparte lo que aprendistes **copiando y pegando el texto completo de tu nueva página web renderizada** en la 'Respuesta' a continuación.
-* Incluye la URL activa de la nueva página debajo del texto pegado. (*Sugerencia: la URL de la página debe comenzar con TU nombre de usuario de GitHub, no con "github.com"*)
+* Incluye la URL activa de tu nueva página debajo del texto pegado. (*Sugerencia: la URL de la página debe comenzar con TU nombre de usuario de GitHub, no con "github.com"*)
 
 Estás invitado a revisar las respuestas de tus compañeros y dar comentarios positivos y palabras de aliento.
