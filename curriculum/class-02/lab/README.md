@@ -4,9 +4,9 @@ Tener la herramienta adecuada puede hacer que algo "difícil" sea mucho más alc
 
 ## Configuración y documentación
 
-Sigue la [Guía de configuración de la computadora](https://codefellows.github.io/setup-guide/){:target="_blank"} para preparar tu máquina y estes listo para codificar.
+Sigue la [Guía de configuración de la computadora](https://codefellows.github.io/setup-guide/){:target="_blank"} para preparar tu máquina y estar listo para codificar.
 
-Esto requiere seguir cuidadosamente las instrucciones y potencialmente interpretar mensajes de error. ¡Practica esas habilidades orientadas a los detalles! Tómate las cosas con calma y, si algo sale mal, no dudes en buscar ayuda.
+Esto requiere que sigas cuidadosamente las instrucciones y potencialmente interpretar mensajes de error. ¡Practica esas habilidades orientadas a los detalles! Tómate las cosas con calma y, si algo sale mal, no dudes en buscar ayuda.
 
 ## Requisitos
 
