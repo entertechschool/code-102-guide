@@ -2,7 +2,7 @@
 
 A continuación se muestra una colección de recursos de distintos tipos y longitudes que describen los temas de la próxima conferencia.
 
-Revise estos recursos y **agrega una nueva página a tu sitio web de notas de lectura** que resuma los temas que aprendistes como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
+Revise estos recursos y **agrega una nueva página a tu sitio web de notas de lectura** que resuma los temas que aprendiste como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
 
 <strong style="color: green">A partir de este momento, todas tus asignaciones de notas de lectura deben realizarse localmente, en VS Code. ¡Los nuevos archivos y cambios se reflejarán en GitHub usando tus nuevas habilidades de Git-flow! (Recuerda... A-C-P)</strong>
 
@@ -20,7 +20,7 @@ Abre algunos recursos HTML. Estas páginas se seleccionan en este orden por una 
    * Si NO has tomado el Code 101, lee este capítulo con un poco más de atención.
 
 * [Semántica](https://developer.mozilla.org/en-US/docs/Glossary/Semantics){:target="_blank"}
-   * Nóte como estos elementos son comunes a la gran mayoría de páginas web.
+   * Nótese como estos elementos son comunes a la gran mayoría de páginas web.
 
 ## Revisar
 
@@ -36,7 +36,7 @@ Abre algunos recursos HTML. Estas páginas se seleccionan en este orden por una 
 
 ## Instrucciones de envío
 
-* Comparte lo que aprendistes **copiando y pegando el texto completo de tu nueva página web renderizada** en la 'Respuesta' a continuación.
-* Incluya la URL activa de la nueva página debajo del texto pegado. (*Sugerencia: la URL de la página debe comenzar con TU nombre de usuario de GitHub, no con "github.com"*)
+* Comparte lo que aprendiste **copiando y pegando el texto completo de tu nueva página web renderizada** en la 'Respuesta' a continuación.
+* Incluye la URL activa de tu nueva página debajo del texto pegado. (*Sugerencia: la URL de la página debe comenzar con TU nombre de usuario de GitHub, no con "github.com"*)
 
 Estás invitado a revisar las respuestas de tus compañeros y dar comentarios positivos y palabras de aliento.
