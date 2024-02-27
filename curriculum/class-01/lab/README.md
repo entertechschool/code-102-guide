@@ -17,7 +17,7 @@ Utiliza estos recursos para ponerte en marcha:
 1. Tu sitio debe existir en `https://USERNAME.github.io/reading-notes/`
 1. La "fuente" de tu sitio debe ser un archivo README.md, escrito con Markdown
 1. En la página principal:
-     - Explica que es "Growth Mindset" con tus propias palabras.
+     - Explica qué es "Growth Mindset" con tus propias palabras.
      - Incluye 3 recordatorios sobre cómo mantenerte con una mentalidad de crecimiento
 1. Utiliza al menos 5 funciones diferentes de Markdown para estructurar tu página
 1. Asegúrate de presentarte e incluir un enlace a la página de tu portafolio de GitHub.
