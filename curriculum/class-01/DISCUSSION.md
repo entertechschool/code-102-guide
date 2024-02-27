@@ -36,7 +36,7 @@ Ideas de notas:
 ## Envío
 
 
-* Comparte lo que aprendistes copiando y pegando el texto completo de tu **nueva página web renderizada** en la 'Respuesta' a continuación.
+* Comparte lo que aprendiste copiando y pegando el texto completo de tu **nueva página web renderizada** en la 'Respuesta' a continuación.
 * Incluye la URL activa de tu nueva página debajo del texto pegado. (*Sugerencia: la URL de la página debe comenzar con TU nombre de usuario de GitHub, no con "github.com"*)
 
 Estás invitado a revisar las respuestas de tus compañeros y darles comentarios positivos y palabras de aliento.
