@@ -15,14 +15,12 @@ Ideas de notas:
 
 ## Leer y marcar
 
-
 * [Primeros pasos](https://www.markdownguide.org/getting-started/){:target="_blank"}
    * Solo lectura de las secciones **"Qué es Markdown"** y **"Por qué utilizar Markdown"**
 * [Sintaxis básica de Markdown](https://www.markdownguide.org/basic-syntax/){:target="_blank"}
 * [Dominar Markdown en GitHub](https://guides.github.com/features/mastering-markdown/){:target="_blank"}
 
-## Respuesta
-
+## Responde
 
 1. ¿Qué es Markdown?
 2. ¿Por qué utilizamos Markdown?
@@ -35,8 +33,9 @@ Ideas de notas:
 
 ## Envío
 
-
 * Comparte lo que aprendiste copiando y pegando el texto completo de tu **nueva página web renderizada** en la 'Respuesta' a continuación.
 * Incluye la URL activa de tu nueva página debajo del texto pegado. (*Sugerencia: la URL de la página debe comenzar con TU nombre de usuario de GitHub, no con "github.com"*)
 
 Estás invitado a revisar las respuestas de tus compañeros y darles comentarios positivos y palabras de aliento.
+
+Estás invitado a revisar las respuestas de tus compañeros y dar comentarios positivos y palabras de aliento.
