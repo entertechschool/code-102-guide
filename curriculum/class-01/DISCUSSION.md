@@ -15,14 +15,12 @@ Ideas de entrada de notas:
 
 ## Leer y marcar
 
-
 * [Primeros pasos](https://www.markdownguide.org/getting-started/){:target="_blank"}
    * Solo lectura de las secciones **"Qué es Markdown"** y **"Por qué utilizar Markdown"**
 * [Sintaxis básica de Markdown](https://www.markdownguide.org/basic-syntax/){:target="_blank"}
 * [Dominar Markdown en GitHub](https://guides.github.com/features/mastering-markdown/){:target="_blank"}
 
-## Respuesta
-
+## Responde
 
 1. ¿Qué es Markdown?
 2. ¿Por qué utilizamos Markdown?
@@ -34,7 +32,6 @@ Ideas de entrada de notas:
 6. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
 
 ## Envío
-
 
 * Comparte lo que has aprendido copiando y pegando el texto completo de tu **nueva página web renderizada** en la 'Respuesta' a continuación.
 * Incluye la URL activa de la nueva página debajo del texto pegado. (*Sugerencia: la URL de la página debe comenzar con TU nombre de usuario de GitHub, no con "github.com"*)
