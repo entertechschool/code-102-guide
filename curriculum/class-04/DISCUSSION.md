@@ -10,7 +10,7 @@ Revise estos recursos y **agrega una nueva página a tu sitio web de notas de le
 
 Abre algunos recursos HTML. Estas páginas se seleccionan en este orden por una razón muy particular.
 
-* [Estructura alámbrica y diseño](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/){:target="_blank"}
+* [Wireframey diseño](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/){:target="_blank"}
    * Para Lab, crearás un sitio desde cero.
    * Piensa qué tipo de página quieres diseñar.
    * Por ahora, concéntrate principalmente en el proceso. Toma notas sobre el proceso de alto nivel que te gustaría seguir para crear un new site.

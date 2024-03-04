@@ -8,7 +8,7 @@ Revisa estos recursos y **crea una página en tu repositorio de notas de lectura
 
 ## Leer
 
-* [Flujo de control de MDN](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow){:target="_blank"}
+* [Control Flow de MDN](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow){:target="_blank"}
 
 ## Leer y demostrar
 
@@ -22,9 +22,9 @@ Revisa estos recursos y **crea una página en tu repositorio de notas de lectura
 
 ## Respuesta
 
-1. ¿Qué es el "flujo de control"?
-2. ¿Qué es una "función" de JavaScript?
-3. ¿Qué significa "invocar" - o "llamar" - una función?
+1. ¿Qué es el "control flow"?
+2. ¿Qué es una "function" de JavaScript?
+3. ¿Qué significa "invoke" - o "call" - una función?
 4. ¿Para qué sirven los paréntesis `()` cuando defines una función?
 
 ## Instrucciones de envío
