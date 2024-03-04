@@ -2,15 +2,15 @@
 
 ##  Configuración y documentación
 
-Revisa el wireframe de tu página. Mira el contenido y seleccione algunos lugares donde podría agregar algo dinámico.
+Revisa el wireframe de tu página. Mira el contenido y seleccione algunos lugares donde podrías agregar algo dinámico.
 
 ## Requisitos
 
 Agrega al menos 3 componentes dinámicos a tu página web. Estos pueden basarse en los input del usuario u otros tipos de inputs dinamicos.
 
-Al menos un componente dinámico debe basarse en el input del usuario.
+Asegurate de que al menos uno de los componente dinámico se base en el input del usuario.
 
-Al menos un componente dinámico debe utilizar una declaración condicional para determinar el resultado.
+Asegurate de que al menos uno de los componente dinámico utilize una declaración condicional para determinar el resultado.
 
 ### Extender los objetivos
 

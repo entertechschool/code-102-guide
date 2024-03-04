@@ -8,11 +8,11 @@ Comienza con tu código existente. Asegúrate de que todo esté funcionando como
 
 Utiliza funciones para mejorar la claridad y legibilidad de tu código.
 
-Envuelve los pasos relacionados en una sola función. Asegúrate de definir correctamente la función, llamarla y obtener el valor de retorno que espera.
+Envuelve los pasos relacionados en una sola función. Asegúrate de definir correctamente la función, llamarla y obtener el valor de retorno que esperabas.
 
-¿Puedes ver cómo puedes usar una sola etiqueta `<script>` con un atributo `src` para acceder a tu JS y luego llamar a funciones específicas en el resto de tu página?
+Investiga como utilizar una unica etiqueta `<script>` con un atributo `src` para acceder a tu JS y luego llamar a funciones específicas en el resto de tu página.
 
-Agrega una marca al input del usuario para ver si el valor que esta recibiendo es un valor aceptable. De lo contrario, muestra al usuario un mensaje de error y una segunda oportunidad para ingresar un valor adecuado.
+Agrega una marca al input del usuario para ver si el valor que estas recibiendo es un valor aceptable. En caso contrario, muestra al usuario un mensaje de error y una segunda oportunidad para ingresar un valor adecuado.
 
 ### Amplíe su meta
 
