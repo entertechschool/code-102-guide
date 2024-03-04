@@ -15,7 +15,7 @@ Ideas para tus notas:
 ## Leer
 
 * [Introducción a Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/){:target="_blank"}
-   * Lee únicamente hasta la sección llamada **"Ver su control remoto"**.
+   * Lee únicamente hasta la sección llamada **"Seeing Your Remote"**.
    * No dudes en leer las instrucciones de "Cómo comenzar", no siga esa sección por ahora.
 
 ## Respuesta
