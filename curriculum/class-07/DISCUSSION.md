@@ -8,17 +8,17 @@ Revisa estos recursos y **crea una página en tu repositorio de notas de lectura
 
 ## Leer
 
-* [Control Flow de MDN](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow){:target="_blank"}
+* [Flujo de Control - MDN ](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow){:target="_blank"}
 
 ## Leer y demostrar
 
-* [Funciones](https://www.w3schools.com/js/js_functions.asp){:target="_blank"}
-* [Operadores](https://www.w3schools.com/js/js_operators.asp){:target="_blank"}
+* [Funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions){:target="_blank"}
+* [Operadores](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_operators){:target="_blank"}
 
 ## Revisar 
 
-* [Expresiones y operadores](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators){:target="_blank"}
-* [Funciones](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions){:target="_blank"}
+* [Expresiones y operadores](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators){:target="_blank"}
+* [Funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions){:target="_blank"}
 
 ## Respuesta
 

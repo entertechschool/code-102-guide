@@ -10,12 +10,12 @@ Revise estos recursos y **agrega una nueva página a tu sitio web de notas de le
 
 Abre algunos recursos HTML. Estas páginas se seleccionan en este orden por una razón muy particular.
 
-* [Wireframey diseño](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/){:target="_blank"}
+* [Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/){:target="_blank"}
    * Para Lab, crearás un sitio desde cero.
    * Piensa qué tipo de página quieres diseñar.
    * Por ahora, concéntrate principalmente en el proceso. Toma notas sobre el proceso de alto nivel que te gustaría seguir para crear un new site.
 
-* [Conceptos básicos de HTML de Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics){:target="_blank"}
+* [Conceptos básicos de HTML-Mozilla](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics){:target="_blank"}
    * Si has tomado el Code 101, deberías revisar lo principal, así que leelo rapidamente.
    * Si NO has tomado el Code 101, lee este capítulo con un poco más de atención.
 
@@ -24,10 +24,10 @@ Abre algunos recursos HTML. Estas páginas se seleccionan en este orden por una 
 
 ## Revisar
 
-* [Documentos HTML de Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML){:target="_blank"}
-* [Elementos HTML de Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element){:target="_blank"}
+* [Documentos de HTML - Mozilla](https://developer.mozilla.org/es/docs/Web/HTML){:target="_blank"}
+* [Elementos HTML - Mozilla](https://developer.mozilla.org/es/docs/Web/HTML/Element){:target="_blank"}
 
-## Respuesta
+## Responde
 
 1. ¿Qué es HTML y por qué lo usamos?
 2. ¿Cuáles son las 3 partes principales de un elemento HTML?

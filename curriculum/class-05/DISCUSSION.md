@@ -8,14 +8,19 @@ Revisa estos recursos y **agrega una nueva página a tu sitio web de notas de le
 
 ## Leer
 
-* [Qué es CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS){:target="_blank"}
+* [Qué es CSS](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS){:target="_blank"}
 
 ## leer y experimentar
 
-* [Cómo agregar CSS](https://www.w3schools.com/css/css_howto.asp){:target="_blank"}
-* [Color CSS](https://www.w3schools.com/cssref/pr_text_color.asp){:target="_blank"}
+* [Cómo insertar CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics){:target="_blank"}
+* [Colores CSS](https://developer.mozilla.org/es/docs/Web/CSS/color){:target="_blank"}
 
-## Respuesta
+## Revisar
+
+* [Referencia CSS ](https://developer.mozilla.org/es/docs/Web/CSS/Reference){:target="_blank"}
+* [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/){:target="_blank"}
+
+## Responde
 
 
 1. ¿Cuál es el propósito de CSS?

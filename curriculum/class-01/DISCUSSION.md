@@ -18,7 +18,7 @@ Ideas de notas:
 * [Primeros pasos](https://www.markdownguide.org/getting-started/){:target="_blank"}
    * Solo lectura de las secciones **"Qué es Markdown"** y **"Por qué utilizar Markdown"**
 * [Sintaxis básica de Markdown](https://www.markdownguide.org/basic-syntax/){:target="_blank"}
-* [Dominar Markdown en GitHub](https://guides.github.com/features/mastering-markdown/){:target="_blank"}
+* [Dominar Markdown en GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){:target="_blank"}
 
 ## Responde
 
