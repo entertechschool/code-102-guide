@@ -8,19 +8,19 @@ Revisa estos recursos y **crea una página en tu repositorio de notas de lectura
 
 ## Leer 
 
-- [Párrafo de introducción de JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"}
-- [Introducción a JavaScript: resultados básicos](https://code-maven.com/introduction-to-javascript){:target="_blank"}
-- [Entrada de JavaScript con solicitud y confirmación](https://code-maven.com/javascript-input-with-prompt-and-confirm){:target="_blank"}
+- [Introducción a JS -Parrafo](https://developer.mozilla.org/es/docs/Web/JavaScript){:target="_blank"}
+- [Introducción a Javascript - Output básicos](https://code-maven.com/introduction-to-javascript){:target="_blank"}
+- [Javascript input con prompt y confirm](https://es.javascript.info/alert-prompt-confirm){:target="_blank"}
 
 ## Leer y demostrar
 
-- [Variables](https://www.w3schools.com/js/js_variables.asp){:target="_blank"}
+- [Variables](https://www.freecodecamp.org/espanol/news/javascript-variables-para-principiantes/){:target="_blank"}
 
 ## Marcador
 
 Mira estos vídeos, en orden. ¡En menos de 30 minutos, obtendrás nuevos conocimientos sobre cómo funcionan realmente las computadoras! Mire los 6 videos y crea tu página de notas de lectura basada en tus 3 lecturas más importantes.
 
-* [Cómo funcionan las computadoras - Lista de reproducción](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-){:target="_blank"}
+* [Como funciona las computadoras - Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-){:target="_blank"}
 
 Un sincero agradecimiento a Code.org por producir estos videos.
 
