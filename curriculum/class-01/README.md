@@ -4,15 +4,15 @@
 
 ## Objetivos de aprendizaje
 
-- Comprendera el impacto de los mindsets en el proceso de aprendizaje y sabrá cómo ajustar su mindsets para la adquisición efectiva de habilidades.
+- Comprenderá el impacto de los 'mindsets' en el proceso de aprendizaje y sabrá cómo ajustar su mindsets para la adquisición efectiva de habilidades.
 - Utilizará la sintaxis esencial de Markdown para crear documentos y publicar un sitio web de páginas interconectadas a través de GitHub Pages.
 - Publicará notas de lectura para resaltar las habilidades adquiridas durante el curso.
 
 ## Agenda
 
-1. Orientación y presentaciones del campus
-1. Aprender a aprender
-     - Growth mindset
+1. Orientación del campus e Intros
+1. Aprendiendo a aprender
+     - Growth Mindset
      - Demo y lab
 1. Web Publishing
      - Markdown
@@ -27,10 +27,10 @@ Ve las diapositivas y tareas de la clase para obtener más detalles.
 - Canvas
 - GitHub
 - Slack
-- Growth mindset
-- Fixed mindset
+- Growth Mindset
+- Fixed Mindset
 - Repositorio
 - Markdown
 - Web Publishing
 - Path Learning
-- Sandbox learning
+- Sandbox Learning
