@@ -4,9 +4,9 @@
 
 ## Objetivos de aprendizaje
 
-- Comprenderá el impacto de los 'mindsets' en el proceso de aprendizaje y sabrá cómo ajustar su mindsets para la adquisición efectiva de habilidades.
-- Utilizará la sintaxis esencial de Markdown para crear documentos y publicar un sitio web de páginas interconectadas a través de GitHub Pages.
-- Publicará notas de lectura para resaltar las habilidades adquiridas durante el curso.
+- Los estudiantes comprenderán el impacto de los 'mindsets' en el proceso de aprendizaje y sabrán cómo ajustar su 'mindset' para la adquisición efectiva de habilidades.
+- Los estudiantes utilizarán la sintaxis esencial de Markdown para crear documentos y publicar un sitio web de páginas interconectadas a través de GitHub Pages.
+- Los estudiantes publicarán notas de lectura para resaltar las habilidades adquiridas durante el curso.
 
 ## Agenda
 
