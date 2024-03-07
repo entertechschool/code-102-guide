@@ -1,13 +1,12 @@
 # Demo: publicación de un repositorio de notas de lectura 
 
-Los estudiantes te dirán cómo crear un nuevo web site con GitHub Pages, utilizando instrucciones mínimas.
+Los estudiantes te dirán cómo crear un nuevo sitio web con GitHub Pages, utilizando instrucciones mínimas.
 
 ## Instrucciones para la demostración
 
-
-1. Dile a los estudiantes que van a configurar de manera colaborativa un nuevo web site.
-     - Explicales que "utilizarán" (operará la computadora),
-     - pero ellos deberían "recordar" (decirle qué pasos seguir).
+1. Dile a los estudiantes que van a configurar de manera colaborativa un nuevo sitio web.
+     - Explicales que tú (Instructor) vas a "conducir" (operar la computadora),
+     - pero ellos deberán "navegar" (decirle al Instructor qué pasos seguir).
 1. Diles que has oído hablar de algo llamado GitHub Pages que lo hace "fácil".
 1. PREGUNTA: Si no tienes idea de cómo hacer esto, ¿cómo empezarías?
      - Toma sugerencias de los estudiantes.
@@ -22,7 +21,7 @@ Los estudiantes te dirán cómo crear un nuevo web site con GitHub Pages, utiliz
 ### Pasos a seguir eventualmente
 
 1. Debes iniciar sesión en GitHub
-1. Crea un nuevo repositorio, llamado "notas de lectura".
+1. Crea un nuevo repositorio, llamado "reading-notes".
      - Si ya tienes algo ahí, muévelo o usa una cuenta alterna.
 1. Incluye un README al realizar el repositorio.
 1. Publica con GitHub Pages
