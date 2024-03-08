@@ -1,9 +1,8 @@
 # Reflexión y Discusión
 
+A continuación se muestra una colección de recursos que describen los temas de la conferencia.
 
-A continuación se muestra una colección de recursos de diferentes tipos y longitudes que describen los temas de la conferencia.
-
-Revisa estos recursos y **crea una página en tu repositorio de notas de lectura** que resuma los temas que aprendiste como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
+Revisa estos recursos y **crea una página en tu repositorio reading-notes** que resuma los temas que aprendiste como si estuviera presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
 
 
 Ideas de notas:
@@ -15,9 +14,9 @@ Ideas de notas:
 
 ## Leer y marcar
 
-* [Primeros pasos](https://www.markdownguide.org/getting-started/){:target="_blank"}
+* [Primeros pasos](https://markdown.es){:target="_blank"}
    * Solo lectura de las secciones **"Qué es Markdown"** y **"Por qué utilizar Markdown"**
-* [Sintaxis básica de Markdown](https://www.markdownguide.org/basic-syntax/){:target="_blank"}
+* [Sintaxis básica de Markdown](https://markdown.es/sintaxis-markdown/){:target="_blank"}
 * [Dominar Markdown en GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){:target="_blank"}
 
 ## Responde
@@ -31,11 +30,9 @@ Ideas de notas:
 5. ¿Cómo se crea un vínculo con Markdown?
 6. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
 
-## Envío
+## Instrucciones de envío
 
 * Comparte lo que aprendiste copiando y pegando el texto completo de tu **nueva página web renderizada** en la 'Respuesta' a continuación.
 * Incluye la URL activa de tu nueva página debajo del texto pegado. (*Sugerencia: la URL de la página debe comenzar con TU nombre de usuario de GitHub, no con "github.com"*)
-
-Estás invitado a revisar las respuestas de tus compañeros y darles comentarios positivos y palabras de aliento.
 
 Estás invitado a revisar las respuestas de tus compañeros y dar comentarios positivos y palabras de aliento.

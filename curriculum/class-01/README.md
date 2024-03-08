@@ -1,17 +1,17 @@
 # Aprendiendo Markdown.
 
-¡Bienvenido al Código 102! Nos sumergiremos de lleno en aprender cosas nuevas.
+¡Bienvenido al Code 102! Nos concentraremos principalmente en aprender cosas nuevas.
 
 ## Objetivos de aprendizaje
 
-- Comprendera el impacto de los mindsets en el proceso de aprendizaje y sabrá cómo ajustar su mindsets para la adquisición efectiva de habilidades.
-- Utilizará la sintaxis esencial de Markdown para crear documentos y publicar un sitio web de páginas interconectadas a través de GitHub Pages.
-- Publicará notas de lectura para resaltar las habilidades adquiridas durante el curso.
+- Los estudiantes comprenderán el impacto de los mindsets en el proceso de aprendizaje y sabrán cómo ajustar su mindsets para la adquisición efectiva de habilidades.
+- Los estudiantes utilizarán la sintaxis esencial de Markdown para crear documentos y publicar un sitio web de páginas interconectadas a través de GitHub Pages.
+- Los estudiantes publicarán notas de lectura para resaltar las habilidades adquiridas durante el curso.
 
 ## Agenda
 
-1. Orientación y presentaciones del campus
-1. Aprender a aprender
+1. Orientación al campus e Intros
+1. Aprendiendo a aprender
      - Growth mindset
      - Demo y lab
 1. Web Publishing

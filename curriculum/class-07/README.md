@@ -2,9 +2,9 @@
 
 ## Objetivos de aprendizaje
 
-- Podrá crear un guión como una secuencia de pasos, ejecutable por computadora, para lograr un objetivo establecido.
-- Encapsulará código en funciones, modelando pasos en un proceso.
-- Aplicará nuevas técnicas al código existente, aumentando la claridad del código, sin perder ninguna funcionalidad.
+-Los estudiantes podrán crear un guión como una secuencia de pasos, ejecutable por computadora, para lograr un objetivo establecido.
+- Los estudiantes encapsularán código en funciones, modelando pasos en un proceso.
+- Los estudiantes aplicarán nuevas técnicas al código existente, aumentando la claridad del código, sin perder ninguna funcionalidad.
 
 ## Agenda de clase
 

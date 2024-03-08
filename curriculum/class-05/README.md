@@ -2,9 +2,9 @@
 
 ## Objetivos de aprendizaje
 
-- Comprenderá el papel de CSS en la creación de una página web completa.
-- Sabrás cómo utilizar una herramienta para generar un tema de color razonable para aplicar al diseño de un sitio web.
-- Aplicará colores a un wireframe para resaltar la vitalidad de una página web, controlando el color del texto, el color de fondo y los colores del modelo de cuadro.
+- Los estudiantes comprenderán el papel de CSS en la creación de una página web completa.
+- Los estudiantes sabrán cómo utilizar una herramienta para generar un tema de color razonable para aplicar al diseño de un sitio web.
+- Los estudiantes aplicarán colores a una wireframe para resaltar la vitalidad de una página web, controlando el color del texto, el color de fondo y los colores del box-model.
 
 ## Agenda de clase
 

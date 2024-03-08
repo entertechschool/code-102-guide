@@ -2,16 +2,16 @@
 
 ## Preparación
 
-1. Confirma que la captura de video de la conferencia está completamente configurada y lista para usar, y que toda la configuración está completa.
+1. Confirma que la imagen de video de la conferencia está completamente configurada y lista para usar, y que toda la configuración está completa.
 1. Revisa el [Demo](../demo/) en la carpeta `demo`.
-     - Hay un vídeo para reproducir... Ten un altavoz listo para conectar tu computadora portátil, para que se escuche lo suficientemente alto.
+     - Hay un vídeo para reproducir. Ten un altavoz listo para conectar tu computadora portátil, para que se escuche lo suficientemente alto.
 1. Familiarizate con el **Horario del día** y las tareas adicionales que la Clase 01 requiere.
 1. Revisa el [Lab 01b assignment] (../lab/) en la carpeta `lab`.
 1. Familiarízate con el [Discussion assignment](../DISCUSSION.md).
-1. Practica revisando las diapositivas para asegurarte de que te sientas cómodo con los puntos de discusion detallados en cada diapositiva.
+1. Practica repasando las diapositivas para que te sientas cómodo con los puntos de discusion detallados en cada diapositiva.
 1. En la pizarra del aula:
      - Proporciona la información y constraseña del wifi.
-     - Proporciona códigos relevantes de puerta o baño relevantes si es necesario
+     - Proporciona información relevante de puertas o baños si es necesario
      - Asigna `Lab 01a: Configura tus cuentas`
        - **Lab 01a: configura tus cuentas** debe realizarse antes de la demostración de GitHub Pages y puede hacerse individualmente mientras los estudiantes llegan antes de clase. Esto asegura que los estudiantes tengan acceso a las cuentas en línea que necesitarán mientras nos adentremos en Code 102.
 
@@ -20,18 +20,18 @@
 *Debes entregar todas las tareas antes de la medianoche. Dedica un par de minutos a repasar cada tarea en Canvas antes de la hora de lectura y laboratorio.*
 
 - Career 01 - Competencia Profesional
-   - Puedes entregarla como tarea y se espera que requera poca o ninguna orientación.
+   - Puedes entregarla como tarea y se espera que requiera poca o ninguna orientación.
 - Lab 01a - Configura tus cuentas
-   - Puede ser una tarea publicada en el tablero, completala cuando ingreses al aula y, con suerte, antes de que comience la clase. Si no está completada al 100%, pero el estudiante tiene acceso a Canvas, GitHub y Slack, esta tarea también se puede completar fácilmente para cumplir con los requisitos de envío.
+   - Puede ser una tarea publicada en el tablero, completala cuando ingreses al aula y, con suerte, antes de que comience la clase. Si no está completada al 100%, el estudiante tiene acceso a Canvas, GitHub y Slack, esta tarea también se puede completar fácilmente para cumplir con los requisitos de envío.
 - Lab 01b - Crea notas de lectura
    - Se incorpora a la demostración de clase como se describe.
-- Read 01 - Learning Markdown
+- Read 01 - Aprendiendo Markdown
    - Discusión sobre Markdown
-- Review: Clase 01-Markdown
+- Test 01 - Markdown
 
 ## Temas principales de la conferencia y flujo general
 
-Comienza la clase con una orientación universitaria y una bienvenida. Esto se combina con un ejercicio de aprendizaje y adquisición de nuevas habilidades con Markdown.
+Comienza la clase recibiendo orientacion al campus y una bienvenida. Esto se combina con un ejercicio de aprendizaje y adquisición de nuevas habilidades con Markdown.
 
 Darles a los estudiantes la capacidad de adoptar el Growth Mindset es lo más importante que puedes enseñarles en todo este curso. Así que ahí es donde empezamos.
 
