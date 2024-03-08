@@ -1,4 +1,4 @@
-# Repaso y Conociendo la nube
+# Versionamiento Local y Remoto
 
 ## Objetivos de aprendizaje
 
@@ -10,12 +10,12 @@
 - Review de la clase anterior.
    - Comparte tu aprendizaje
 - Código compartido
-   -Git
-   -GitHub
+   - Git
+   - GitHub
 - Demostración en vivo
 - Ejercicio de discusión
-   -Git
-- Laboratorio: Repaso y Conociendo la Nube
+   - Git
+- Laboratorio: Versionamiento Local y Remoto
 
 Ve las diapositivas y tareas de la clase para obtener más detalles.
 
