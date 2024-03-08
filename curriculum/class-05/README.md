@@ -17,7 +17,7 @@
    - Demostración.
    - Laboratorio: wireframe y construcción.
 
-## Nuevo bocabulario
+## Nuevo Vocabulario
 
 - CSS
 - RGB
