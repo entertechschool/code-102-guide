@@ -10,10 +10,10 @@
 ## Agenda de clase
 
 - Review de la clase anterior.
-   - Comparte tu aprendizaje
--HTML
-   - Resumen del Código 101
-   - Ejercicio de discusión
+   - Comparte tu aprendizaje.
+- HTML:
+   - Resumen del Code 101.
+   - Ejercicio de discusión.
 - Mockup to Markup
    - Demostración
    - Laboratorio: Wireframe y construcción.
