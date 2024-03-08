@@ -17,7 +17,7 @@
    - Demostración: entrada y salida
    - Laboratorio: planificar y construir
 
-## Vocabulario Nuevo 
+## Nuevo Vocabulario
 
 - JavaScript
 - condicionales
