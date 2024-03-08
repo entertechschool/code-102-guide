@@ -14,11 +14,11 @@
 - Lectura de discusión
    - Read 08: Operadores y Bucles
 - Bucles de computadora
-   - Demostración: bucles `` while` y `for`
+   - Demostración: bucles `while` y `for`
    - Tablas de verdad
    - Laboratorio: ¡Bucle y bucle!
 
-## Vocabulario Nuevo
+## Nuevo Vocabulario
 
 - loop
 - while
