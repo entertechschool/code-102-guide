@@ -2,7 +2,7 @@
 
 A continuación se muestra una colección de recursos de diferentes tipos y longitudes que describen los temas de la conferencia.
 
-Revisa estos recursos y **crea una página en tu repositorio de notas de lectura** que resuma los temas que aprendiste como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
+Revisa estos recursos y **crea una página en tu repositorio reading-notes** que resuma los temas que aprendiste como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
 
 
 Ideas de notas:
@@ -18,7 +18,7 @@ Ideas de notas:
    * Lee únicamente hasta la sección llamada **"Seeing Your Remote"**.
    * No dudes en leer las instrucciones de "Cómo comenzar", no siga esa sección por ahora.
 
-## Respuesta
+## Responde
 
 1. ¿Qué es el control de versiones?
 2. ¿Qué es la "clonación" en Git?

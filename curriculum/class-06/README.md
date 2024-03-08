@@ -2,8 +2,9 @@
 
 ## Objetivos de aprendizaje
 
-- Incorporará JavaScript en una página web para crear contenido dinámico que responda a los inputs.
-- Replicará el código que utiliza ramificaciones lógicas y condicionales básicos para determinar el resultado del contenido en una página web.
+- Los estudiantes incorporarán JavaScript en una página web para crear contenido dinámico que responda a los inputs.
+- Los estudiantes replicarán código que utiliza ramificaciones lógicas y condicionales básicos para determinar el resultado del contenido de una página web.
+
 
 ## Agenda de clase
 

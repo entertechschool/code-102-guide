@@ -2,10 +2,10 @@
 
 ## Objetivos de aprendizaje
 
-- Podrá delinear áreas de contenido principal de una página web para crear un wireframe de baja fidelidad en la pizarra.
-- Utilizará correctamente etiquetas semánticas para estructurar una página web básica.
-- Comenzará a ver cómo se podría utilizar HTML5 para crear sitios web comunes que utilizan con frecuencia.
-- Se Utilizara la extensión Live-Server en VS Code.
+- Los estudiantes podrán delinear áreas de contenido principal de una página web para crear un wireframe de baja fidelidad en la pizarra.
+- Los estudiantes utilizarán correctamente etiquetas semánticas para estructurar una página web básica.
+- Los estudiantes comenzarán a ver cómo se podría utilizar HTML5 para crear sitios web comunes que utilizan con frecuencia.
+- Se presentará a los estudiantes la extensión Live-Server en VS Code.
 
 ## Agenda de clase
 

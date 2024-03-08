@@ -24,7 +24,7 @@ Las siguientes páginas te brindarán una introducción paso a paso sobre el uso
 * [Navegación básica](https://ryanstutorials.net/linuxtutorial/navigation.php){:target="_blank"}
 * [Acerca de Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php){:target="_blank"}
 
-## Respuesta
+## Responde
 
 1. ¿Cuáles son las cuatro características importantes que se deben buscar en un editor de texto?
 2. ¿Qué hacen los siguientes comandos?

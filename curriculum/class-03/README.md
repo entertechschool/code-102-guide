@@ -2,8 +2,8 @@
 
 ## Objetivos de aprendizaje
 
-- Podra crear un nuevo repositorio de código en la nube y sincronizarlo con tu computadora local, usando comandos `git` en la terminal.
-- Desarrollará el hábito de utilizar el control de versiones para compartir y realizar copias de seguridad del código, mediante el uso de confirmaciones pequeñas y frecuentes que comuniquen claramente los cambios realizados.
+- Los estudiantes podrán crear un nuevo repositorio en la nube y sincronizarlo con su computadora local usando comandos `git` en la terminal.
+- Los estudiantes desarrollarán el hábito de utilizar el control de versiones para compartir y realizar copias de seguridad del código, mediante el uso de commits que comuniquen claramente los cambios realizados.
 
 ## Agenda de clase
 

@@ -2,8 +2,8 @@
 
 ## Objetivos de aprendizaje
 
-- Explicará cómo funcionan las computadoras, utilizando terminología técnica, en más de un nivel de detalle.
-- Implementarán bucles `for` y `` while` para realizar tareas significativas en tu código.
+- Los estudiantes explicarán cómo funcionan las computadoras, utilizando terminología técnica, en más de un nivel de detalle.
+- Los estudiantes implementarán bucles `for` y `while` para realizar tareas significativas en su código.
 
 ## Agenda de clase
 

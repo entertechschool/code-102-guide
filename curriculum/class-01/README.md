@@ -1,6 +1,6 @@
 # Aprendiendo Markdown.
 
-¡Bienvenido al Código 102! Nos sumergiremos de lleno en aprender cosas nuevas.
+¡Bienvenido al Code 102! Nos concentraremos principalmente en aprender cosas nuevas.
 
 ## Objetivos de aprendizaje
 
