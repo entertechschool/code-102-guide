@@ -14,7 +14,7 @@ Ideas de notas:
 
 ## Leer
 
-* [Elegir un editor de texto](https://entertechschool.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.es.pdf){:target ="_en blanco"}
+* [Elegir un editor de texto](https://entertechschool.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder-es.pdf){:target ="_en blanco"}
 
 ## Lee cuidadosamente
 
