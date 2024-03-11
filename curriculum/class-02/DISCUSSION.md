@@ -22,7 +22,7 @@ Las siguientes páginas te brindarán una introducción paso a paso sobre el uso
 
 * [La línea de comando](https://ryanstutorials.net/linuxtutorial/commandline.php){:target="_blank"}
 * [Navegación básica](https://ryanstutorials.net/linuxtutorial/navigation.php){:target="_blank"}
-* [Acerca de Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php){:target="_blank"}
+* [Acerca de archivos](https://ryanstutorials.net/linuxtutorial/aboutfiles.php){:target="_blank"}
 
 ## Responde
 
