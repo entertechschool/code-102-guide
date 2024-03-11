@@ -2,7 +2,7 @@
 
 A continuación se muestra una colección de recursos que describen los temas de la conferencia.
 
-Revisa estos recursos y **crea una página en tu repositorio reading-notes** que resuma los temas que aprendiste como si estuviera presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
+Revisa estos recursos y **crea una página en tu repositorio reading-notes** que resuma los temas que aprendiste como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
 
 
 Ideas de notas:
@@ -16,7 +16,7 @@ Ideas de notas:
 
 * [Primeros pasos](https://markdown.es){:target="_blank"}
    * Solo lectura de las secciones **"Qué es Markdown"** y **"Por qué utilizar Markdown"**
-* [Sintaxis básica de Markdown](https://markdown.es/sintaxis-markdown/){:target="_blank"}
+* [Sintaxis Básica de Markdown](https://markdown.es/sintaxis-markdown/){:target="_blank"}
 * [Dominar Markdown en GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax){:target="_blank"}
 
 ## Responde
