@@ -21,7 +21,7 @@ Ideas de notas:
 ## Responde
 
 1. ¿Qué es el control de versiones?
-2. ¿Qué es la "clonación" en Git?
+2. ¿Qué es la "cloning" en Git?
 3. ¿Cuál es el comando para rastrear y preparar archivos?
 4. ¿Cuál es el comando para tomar una instantánea de los archivos modificados?
 5. ¿Cuál es el comando para enviar los archivos modificados a Github?
