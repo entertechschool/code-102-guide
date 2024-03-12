@@ -8,7 +8,7 @@ Proponte un desafío de aprendizaje: descubre cómo publicar un sitio web en Git
 Utiliza estos recursos para ponerte en marcha:
 
 - [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset){:target="_blank"}
-- [Markdown en GitHub](https://help.github.com/es/articles/basic-writing-and-formatting-syntax](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax ){:target="_blank"}
+- [Markdown en GitHub](https://help.github.com/es/articles/basic-writing-and-formatting-syntax){:target="_blank"}
 - [Creando un sitio en GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site){:target="_blank" }
 
 ## Requisitos
