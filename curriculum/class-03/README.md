@@ -8,14 +8,14 @@
 ## Agenda de clase
 
 - Review de la clase anterior.
-   - Comparte tu aprendizaje
-- Código compartido
-   -Git
-   -GitHub
-- Demostración en vivo
-- Ejercicio de discusión
-   -Git
-- Laboratorio: Repaso y Conociendo la Nube
+   - Comparte tu aprendizaje.
+- Comparte tu código.
+   -Git.
+   -GitHub.
+- Demostración en vivo.
+- Ejercicio de discusión.
+   -Git.
+- Lab: Versionamiento local y remoto.
 
 Ve las diapositivas y tareas de la clase para obtener más detalles.
 
