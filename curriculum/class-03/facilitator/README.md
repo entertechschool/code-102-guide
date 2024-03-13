@@ -37,7 +37,7 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 | 1:00 | 60 minutos | Repositorio de demostración en vivo/Clon/Gitflow/Conflictos |
 | Descanso | | |
 | 2:00 | 30 minutos | Read 03: Versionamiento local y remoto |
-| 2:30 | 30 minutos | Test 03: Versionamiento local y remoto |
+| 2:30 | 30 minutos | Lab 03: Versionamiento local y remoto |
 | 3:00 | | Fin (Pista del día: 60min Almuerzo) |
   
 ## Preguntas y desafíos esperados de los estudiantes
@@ -62,7 +62,7 @@ Proximamente. Por favor agrega tus notas.
 - Git vs Github
    - Git es una herramienta de control de versiones distribuido que gestiona el historial del código fuente de un proyecto. Git se instala localmente en una computadora.
    - GitHub es un servicio en línea que almacena código enviado desde computadoras que ejecutan una herramienta Git.
-- Local vs remoto
+- local vs remoto
    - Local se refiere a tu computadora.
    - Remoto se refiere a algún lugar fuera de tu computadora (generalmente en la nube).
 - clone: Es un comando de git para copiar o replicar un repositorio en tu computadora local. Esto también crea una conexión que le permite enviar posibles actualizaciones.
