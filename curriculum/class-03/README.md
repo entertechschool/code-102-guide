@@ -10,11 +10,11 @@
 - Review de la clase anterior.
    - Comparte tu aprendizaje.
 - Comparte tu código.
-   -Git.
-   -GitHub.
+   - Git.
+   - GitHub.
 - Demostración en vivo.
 - Ejercicio de discusión.
-   -Git.
+   - Git.
 - Lab: Versionamiento local y remoto.
 
 Ve las diapositivas y tareas de la clase para obtener más detalles.
