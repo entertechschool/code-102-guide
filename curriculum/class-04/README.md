@@ -12,11 +12,11 @@
 - Review de la clase anterior.
    - Comparte tu aprendizaje
 -HTML
-   - Resumen del Código 101
+   - Resumen del Code 101
    - Ejercicio de discusión
 - Mockup to Markup
    - Demostración
-   - Laboratorio: Wireframe y construcción.
+   - Lab: Wireframe y construcción.
 
 ## Vocabulario Nuevo  
 
