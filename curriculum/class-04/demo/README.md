@@ -8,4 +8,4 @@ Para la demostración, sigue los pasos del laboratorio, con la clase en curso, c
 
 Te contarán lo que leyeron sobre cómo comprender a tu audiencia (personas), wireframing y estructurar la página. Selecciona 1 persona para crear. Wireframe de un sitio de "todas las páginas", con cuadros para representar el diseño habitual de una página.
 
-Luego header, h1, nav, ul, li, a, main, h2s, footer. Opcionalmente: aside, section, article.
+Luego header, h1, nav, ul, li, a, main, h2, footer. Opcionalmente: aside, section, article.
