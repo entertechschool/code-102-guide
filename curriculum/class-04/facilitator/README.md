@@ -10,7 +10,7 @@ Durante la demostración en clase, deberías dividir la pantalla entre VSCode y 
 
 - nota: si no está familiarizado con la extensión VSCode:
    - [Servidor VScode Live](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-   - potencialmente menos confuso para tí que el paquete de servidor en vivo instalado globalmente y usado comúnmente en 201/301
+   - Potencialmente menos confuso para tí que el paquete de servidor en vivo instalado globalmente y usado comúnmente en 201/301
    - Te guiaré para que instales la extensión si aún no lo has hecho a través de VS Code.
 
 ## Preparación
@@ -23,9 +23,9 @@ Durante la demostración en clase, deberías dividir la pantalla entre VSCode y 
 
 *Todas las tareas deben entregarse antes de la medianoche. Dedica un par de minutos a repasar cada tarea en Canvas antes de la hora de lectura y laboratorio.*
 
-- Lab: 04 - Estructurar Páginas Web con HTML
-- Read: 04 - Estructurar Páginas Web con HTML
-- Review: Clase 04 - Estructurar Páginas Web con HTML
+- Lab 04: Estructurar Páginas Web con HTML
+- Read 04: Estructurar Páginas Web con HTML
+- Test 04: Estructurar Páginas Web con HTML
 
 ## Temas principales de la conferencia y flujo general
 
@@ -54,8 +54,8 @@ Algunos estudiantes confundirán qué etiquetas van y dónde (por ejemplo, `nav`
 ## Comentarios y notas varios
 
 - Utiliza la pantalla dividida con VSCode y Chrome para mostrar la extensión VSCode Live Server
-- utiliza el mismo wireframe HTML para la siguiente clase
-- útiles inclusiones en tu wireframe:
+- Utiliza el mismo wireframe HTML para la siguiente clase
+- Útiles inclusiones en tu wireframe:
    - Encabezado
      - h1
      - nav > ul > li*4
