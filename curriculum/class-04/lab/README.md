@@ -29,4 +29,4 @@ Asóciate. Decide un tema para el 'sitio web' que deseas crear. Cada persona ser
 Utiliza algunas etiquetas html que nunca antes hayas usado.
 
 ### Instrucciones para entregar el laboratorio
-Envía la URL de tu sitio con páginas de GitHub (en vivo). Revisa también lo que otras personas construyeron.
+Envía la URL de tu sitio con Github pages (en vivo). Revisa también lo que otras personas construyeron.
