@@ -2,7 +2,7 @@
 
 ## Instrucciones de demostración
 
-Revisar el laboratorio. Estarás estilizando tus propias páginas.
+Revisa el laboratorio. Estarás estilizando tus propias páginas.
 
 Comienza con tu wireframe del sitio que construistes en la última clase. Deje que la clase decida cómo colorearlo, utilizando un esquema de colores de https://color.adobe.com/create/color-wheel.
 

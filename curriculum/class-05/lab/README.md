@@ -1,4 +1,4 @@
-# CSS hecho a mano
+# CSS Hecho a Mano
 
 Forma equipo con tu compañero y agrega algunos estilos a la estructura que construiste a partir del wireframe.
 
@@ -6,7 +6,7 @@ Forma equipo con tu compañero y agrega algunos estilos a la estructura que cons
 
 Empieza por volver a la pizarra. Recrea tu wireframe y trabaja con tu socio para identificar qué estilos pueden aplicar.
 
-Utiliza colores coordinados de un web site de combinación de colores como el de [Adobe](https://color.adobe.com/create/color-wheel){:target="_blank"}. Etiqueta tu wireframe con los colores que van y en dónde.
+Utiliza colores coordinados de un sitio web de combinación de colores como el de [Adobe](https://color.adobe.com/create/color-wheel){:target="_blank"}. Etiqueta tu wireframe con los colores que van y en dónde.
 
 Ahora es un buen momento para desarrollar tu habilidad de busqueda en Google. A medida que identifiques cosas específicas que te gustaría lograr en tu diseño, intenta realizar una búsqueda en Google que te proporcione la respuesta. Implementa lo que encuentres para practicar la escritura CSS.
 
