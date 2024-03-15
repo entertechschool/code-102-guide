@@ -16,7 +16,7 @@
    - Ejercicio de discusión.
 - Mockup to Markup
    - Demostración
-   - Laboratorio: Wireframe y construcción.
+   - Lab: Wireframe y construcción.
 
 ## Vocabulario Nuevo  
 

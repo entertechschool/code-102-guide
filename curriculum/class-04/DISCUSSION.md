@@ -2,7 +2,7 @@
 
 A continuación se muestra una colección de recursos de distintos tipos y longitudes que describen los temas de la próxima conferencia.
 
-Revise estos recursos y **agrega una nueva página a tu repositorio reading-notes** que resuma los temas que aprendiste como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
+Revisa estos recursos y **agrega una nueva página a tu repositorio reading-notes** que resuma los temas que aprendiste como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
 
 <strong style="color: green">A partir de este momento, todas tus asignaciones de notas de lectura deben realizarse localmente, en VS Code. ¡Los nuevos archivos y cambios se reflejarán en GitHub usando tus nuevas habilidades de Git! (Recuerda... A-C-P)</strong>
 
@@ -13,7 +13,7 @@ Abre algunos recursos HTML. Estas páginas se seleccionan en este orden por una 
 * [Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/){:target="_blank"}
    * Para Lab, crearás un sitio desde cero.
    * Piensa qué tipo de página quieres diseñar.
-   * Por ahora, concéntrate principalmente en el proceso. Toma notas sobre el proceso de alto nivel que te gustaría seguir para crear un new site.
+   * Por ahora, concéntrate principalmente en el proceso. Toma notas sobre el proceso de alto nivel que te gustaría seguir para crear un nuevo sitio.
 
 * [Conceptos básicos de HTML-Mozilla](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics){:target="_blank"}
    * Si has tomado el Code 101, deberías revisar lo principal, así que leelo rapidamente.

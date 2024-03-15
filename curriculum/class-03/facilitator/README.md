@@ -6,11 +6,11 @@ Este contenido tiene más diapositivas que las otras clases. Puedes seguir las d
 
 Después de que revises las diapositivas, repasa el proceso demostrándolo en tu propia computadora.
 
-Luego, completa el laboratorio (clona el repositorio reading-notes) y la tarea de lectura ( añade una página a tu repositorio reading-notes sobre notas de git ).
+Luego, completa el laboratorio (clona el repositorio `reading-notes`) y la tarea de lectura (añade una página a tu repositorio `reading-notes` sobre notas de git ).
 
 ## Preparación
 
-1. Revisa el [README](../demo/) en la carpeta `demo`
+1. Revisa el [README](../demo/) en la carpeta `demo`.
 
 ## Asignaciones
 
@@ -49,11 +49,10 @@ Proximamente. Por favor agrega tus notas.
 - Windows
    - Si `root` posee `.profile`, git no funcionará.
 - Reforzar git vs github.
-   - git es el 'deporte' y GitHub es el 'área pública'
+   - git es el 'deporte' y GitHub es el 'área pública'.
 - TODO puede verse así:
    - Configurar el repositorio de "reading-notes" con los estudiantes durante la demostración.
    - Crea `git-github-notes.md` localmente, realice un cambio y ACP
-
 - La lectura puede ser una inmersión más profunda de lo necesario, pero la información puede ser valiosa como referencia. Por ejemplo, la configuración ya está hecha y "git init" no es necesario si se estás creando un repositorio según las instrucciones. Quizás te animes a incluir un enlace externo para leer el archivo Markdown.
 
 ## Nuevo Vocabulario 

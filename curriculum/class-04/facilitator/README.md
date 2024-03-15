@@ -54,8 +54,8 @@ Algunos estudiantes confundirán qué etiquetas van y dónde (por ejemplo, `nav`
 ## Comentarios y notas varios
 
 - Utiliza la pantalla dividida con VSCode y Chrome para mostrar la extensión VSCode Live Server
-- utiliza el mismo wireframe HTML para la siguiente clase
-- útiles inclusiones en tu wireframe:
+- Utiliza el mismo wireframe HTML para la siguiente clase
+- Útiles inclusiones en tu wireframe:
    - Encabezado
      - h1
      - nav > ul > li*4
