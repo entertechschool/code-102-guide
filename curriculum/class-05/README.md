@@ -8,23 +8,23 @@
 
 ## Agenda de clase
 
-- Reviewo de la clase anterior.
+- Review de la clase anterior.
    - Comparte tu aprendizaje
--CSS
-   - Resumen del Código 101
+- CSS
+   - Resumen del Code 101.
    - Ejercicio de discusión
 - Mockup to Markup
-   - Demostración
+   - Demostración.
    - Laboratorio: wireframe y construcción.
 
-## Nuevo bocabulario
+## Nuevo Vocabulario
 
--CSS
--RGB
--HSL
-- códigos hexadecimales
+- CSS
+- RGB
+- HSL
+- Códigos Hexadecimales
 - Layout
 - Rule
--Selector
+- Selector
 - Propiedad y valor
-- llaves
+- Llaves

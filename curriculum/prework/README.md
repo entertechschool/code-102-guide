@@ -17,7 +17,7 @@ Ejecuta todas las actualizaciones del sistema para asegurarte que el sistema ope
 ## Asignaciones
 
 1. Instala la última versión de [Google Chrome](https://www.google.com/chrome/){:target="_blank"} (10 minutos).
-2. [Configura tus cuentas](https://codefellows.github.io/common_curriculum/prework/setup-your-accounts.html){:target="_blank"} (20 minutos)
+2. [Configura tus cuentas](https://entertechschool.github.io/common_curriculum/prework/setup-your-accounts.html){:target="_blank"} (20 minutos)
     - Acción clave: asegúrate de aceptar las invitaciones a Canvas y Slack que se te enviará por correo electrónico al finalizar tu inscripción.
     - Resultado clave: configura perfiles coherentes en GitHub, Slack y Canvas.
 

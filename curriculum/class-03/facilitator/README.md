@@ -6,7 +6,7 @@ Este contenido tiene más diapositivas que las otras clases. Puedes seguir las d
 
 Después de que revises las diapositivas, repasa el proceso demostrándolo en tu propia computadora.
 
-Luego, completarás el laboratorio (clona el repositorio reading-notes) y la tarea de lectura (añade una página a tu repositorio reading-notes sobre notas de git ).
+Luego, completa el laboratorio (clona el repositorio `reading-notes`) y la tarea de lectura (añade una página a tu repositorio `reading-notes` sobre notas de git ).
 
 ## Preparación
 
@@ -16,9 +16,9 @@ Luego, completarás el laboratorio (clona el repositorio reading-notes) y la tar
 
 *Todas las tareas deben entregarse antes de la medianoche. Dedica unos minutos a repasar cada tarea en Canvas antes de la hora de lectura y laboratorio.*
 
-- Lab 03: Versionamiento local y remoto.
-- Read 03: Versionamiento local y remoto.
-- Test 03: Versionamiento local y remoto.
+- Lab 03: Versionamiento local y remoto
+- Read 03: Versionamiento local y remoto
+- Test 03: Versionamiento local y remoto
 
 ## Temas principales de la conferencia y flujo general
 
@@ -33,7 +33,7 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 | Hora | ~Duración| Tarea |
 |--- |--- |--- |
 | 0:00 | 30 minutos | Revisar Markdown/Github/Terminal |
-| 0:30 | 30 minutos | Compartir Código: Git y Github |
+| 0:30 | 30 minutos | Compartir código: Git y Github |
 | 1:00 | 60 minutos | Repositorio de demostración en vivo/Clon/Gitflow/Conflictos |
 | Descanso | | |
 | 2:00 | 30 minutos | Read 03: Versionamiento local y remoto |
@@ -42,9 +42,9 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
   
 ## Preguntas y desafíos esperados de los estudiantes
 
-Proximamente. Por favor agregue tus notas.
+Proximamente. Por favor agrega tus notas.
 
-## Comentarios y notas varios
+## Notas y varios comentarios
 
 - Windows
    - Si `root` posee `.profile`, git no funcionará.
@@ -52,9 +52,8 @@ Proximamente. Por favor agregue tus notas.
    - git es el 'deporte' y GitHub es el 'área pública'.
 - TODO puede verse así:
    - Configurar el repositorio de "reading-notes" con los estudiantes durante la demostración.
-   - Crea `git-github-notes.md` localmente, realice un cambio y ACP.
-
-- La lectura puede ser una inmersión más profunda de lo necesario, pero la información puede ser valiosa como referencia. Por ejemplo, la configuración ya está hecha y "git init" no es necesario si se está creando un repositorio según las instrucciones. Quizás te animes a incluir un enlace externo para leer el archivo Markdown.
+   - Crea `git-github-notes.md` localmente, realice un cambio y ACP
+- La lectura puede ser una inmersión más profunda de lo necesario, pero la información puede ser valiosa como referencia. Por ejemplo, la configuración ya está hecha y "git init" no es necesario si se estás creando un repositorio según las instrucciones. Quizás te animes a incluir un enlace externo para leer el archivo Markdown.
 
 ## Nuevo Vocabulario 
 

@@ -1,4 +1,4 @@
-# Demostración: Estructura con HTML semántico
+# Demostración: Estructurar con HTML semántico
 
 ## Instrucciones de demostración
 

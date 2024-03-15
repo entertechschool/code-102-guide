@@ -2,7 +2,7 @@
 
 ## Objetivos de aprendizaje
 
--Los estudiantes podrán crear un guión como una secuencia de pasos, ejecutable por computadora, para lograr un objetivo establecido.
+- Los estudiantes podrán crear un guión como una secuencia de pasos, ejecutable por computadora, para lograr un objetivo establecido.
 - Los estudiantes encapsularán código en funciones, modelando pasos en un proceso.
 - Los estudiantes aplicarán nuevas técnicas al código existente, aumentando la claridad del código, sin perder ninguna funcionalidad.
 
@@ -16,7 +16,7 @@
 - Demostración con funciones de JavaScript
    - Laboratorio: Refactorización
 
-## Nuevo bocabulario
+## Nuevo vocabulario
 
 - Script
 - Resolución de problemas programáticos.

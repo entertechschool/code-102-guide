@@ -8,7 +8,7 @@ La demostración generará una wireframe para un proyecto arbitrario y luego cod
 
 Durante la demostración en clase, deberías dividir la pantalla entre VSCode y Chrome para mostrar la extensión VSCode Live Server. Luego, podras ver cómo HTML llena el navegador durante la demostración en vivo.
 
-- nota: si no está familiarizado con la extensión VSCode:
+- Nota: si no está familiarizado con la extensión VSCode:
    - [Servidor VScode Live](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
    - Potencialmente menos confuso para tí que el paquete de servidor en vivo instalado globalmente y usado comúnmente en 201/301
    - Te guiaré para que instales la extensión si aún no lo has hecho a través de VS Code.
@@ -41,10 +41,10 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 |--- |--- |--- |
 | 0:00 | 15 minutos | Review clonación/gitflow |
 | 0:15 | 15 minutos | Resumen HTML: ¿qué sabes? |
-| 0:30 | 45 minutos | Read 04 Estructurar Páginas Web con HTML |
+| 0:30 | 45 minutos | Read 04: Estructurar Páginas Web con HTML |
 | 1:15 | 30 minutos | Demostración en vivo: de la maqueta al marcado |
 | Descanso | | |
-| 1:45 | 75 minutos | Lab 04 wireframe y construcción con socios|
+| 1:45 | 75 minutos | Lab 04: wireframe y construcción con socios|
 | 3:00 | | Fin |
 
 ## Preguntas y desafíos esperados de los estudiantes

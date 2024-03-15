@@ -2,7 +2,7 @@
 
 A continuación se muestra una colección de recursos de distintos tipos y longitudes que describen los temas de la próxima conferencia.
 
-Revisa estos recursos y **crea una página en tu repositorio de notas de lectura** que resuma lo que aprendiste como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
+Revisa estos recursos y **crea una página en tu repositorio `reading-notes`** que resuma lo que aprendiste como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
 
 
 Ideas de notas:
@@ -14,7 +14,7 @@ Ideas de notas:
 
 ## Leer
 
-* [Elegir un editor de texto](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf){:target ="_en blanco"}
+* [Elegir un editor de texto](https://entertechschool.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor-The-Older-Coder-es.pdf){:target ="_en blanco"}
 
 ## Lee cuidadosamente
 

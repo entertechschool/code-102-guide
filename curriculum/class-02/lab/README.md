@@ -4,7 +4,7 @@ Tener la herramienta adecuada puede hacer que algo "difícil" sea mucho más alc
 
 ## Configuración y documentación
 
-Sigue la [Guía de configuración de la computadora](https://codefellows.github.io/setup-guide/){:target="_blank"} para preparar tu máquina y estar listo para codificar.
+Sigue la [Guía de configuración de la computadora](https://entertechschool.github.io/setup-guide/){:target="_blank"} para preparar tu máquina y estar listo para codificar.
 
 Esto requiere que sigas cuidadosamente las instrucciones y potencialmente interpretar los mensajes de error. ¡Practica estas habilidades orientadas a los detalles! Tómate las cosas con calma y, si algo sale mal, no dudes en buscar ayuda.
 
@@ -13,17 +13,17 @@ Esto requiere que sigas cuidadosamente las instrucciones y potencialmente interp
 
 Cuando hayas completado la guía, deberas poder ejecutar los siguientes comandos en tu terminal y hacer que cada uno informe un número de versión de lo que está instalado.
 
-- `código --versión`
+- `code --versión`
 - `git --versión`
-- `nodo --versión`
+- `node --versión`
 - `npm --versión`
 - `eslint --versión`
-- `árbol --versión`
+- `tree --versión`
 
 Además, los siguientes comandos le mostrarán cómo configurar algunos elementos clave
 
-- `eco $PS1`
--`gato ~/.gitconfig`
+- `echo $PS1`
+- `cat ~/.gitconfig`
 
 ### Extender los objetivos
 
@@ -33,6 +33,7 @@ Ahora que tienes tu terminal en funcionamiento, regresa a la tarea de lectura y 
 
 Para verificar que todos los comandos anteriores funcionan correctamente, ejecuta este comando en su terminal:
 
-`curl -s https://raw.githubusercontent.com/codefellows/setup-guide/main/configs/verify.sh | bash`
+`curl -s https://raw.githubusercontent.com/entertechschool/setup-guide/main/configs/verify.sh | bash`
+
 
 Copia y pega los resultados en la 'Respuesta' a continuación. Ayuda a revisar los envíos de tus compañeros de clase para buscar posibles errores.
