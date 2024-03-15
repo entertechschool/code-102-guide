@@ -12,9 +12,9 @@ Para la demostración en clase debes dividir la pantalla entre VSCode y Chrome p
 
 *Todas las tareas deben entregarse antes de la medianoche. Dedica un par de minutos a repasar cada tarea en Canvas antes de la hora de lectura y laboratorio.*
 
-- Lab: 05 - Diseño de páginas web con CSS
-- Read: 05 - Diseñar páginas web con CSS
-- Review: Clase 05 - Diseño de páginas web con CSS
+- Lab 05: Diseño de páginas web con CSS
+- Read 05: Diseñar páginas web con CSS
+- Test 05: Diseño de páginas web con CSS
 
 ## Temas principales de la conferencia y flujo general
 
@@ -30,34 +30,34 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 |--- |--- |--- |
 | 0:00 | 15 minutos | Review wireframe/HTML |
 | 0:15 | 15 minutos | Resumen de CSS: ¿qué sabes ya? |
-| 0:30 | 30 minutos | Read 05 Diseñar páginas web con CSS |
+| 0:30 | 30 minutos | Read 05: Diseñar páginas web con CSS |
 | 1:00 | 60 minutos | Demostración en vivo de CSS: Mockup to Markup |
 | Descanso | | |
-| 2:00 | 60 minutos | Lab 05 wireframe y construcción con CSS |
+| 2:00 | 60 minutos | Lab 05: Wireframe y construcción con CSS |
 | 3:00 | | Fin (Pista del día: 60m Almuerzo) |
 
 ## Preguntas y desafíos esperados de los estudiantes
 
 - Los estudiantes podrían tener dificultades para conectar sus archivos CSS externos a su archivo HTML.
-- Cuando a los estudiantes se les muestran carrozas, se rompen. Aprovecha las oportunidades de depuración
+- Cuando a los estudiantes se les muestran números de punto flotante, ocurren problemas. Aprovecha las oportunidades de depuración.
 - Los estudiantes intentarán pasar un tiempo significativo en CSS. Fomenta un MVP mínimo y anímalo a que vuelva a visitarlo más adelante.
 
 ## Comentarios y notas varios
 
-- Divide la Pantalla con VSCode y Chrome para mostrar la extensión VSCode Live Server
-- Utiliza el mismo archivo HTML para la siguiente clase
-- Explica las expectativas del usuario: diseño lógico, enlaces hipertexto clicables estan subrayados o en "botones", ¿otros? Obtenga el comentario de los estudiantes
-- Objetivo: lograr el mismo MVP mínimo que esperas de los estudiantes mientras se basan en puntos problemáticos comunes: flujo de página, color, fuente
+- Divide la Pantalla con VSCode y Chrome para mostrar la extensión VSCode Live Server.
+- Utiliza el mismo archivo HTML para la siguiente clase.
+- Explica las expectativas del usuario: diseño lógico, enlaces hipertexto clicables estan subrayados o en "botones", ¿otros? Obtenga el comentario de los estudiantes.
+- Objetivo: lograr el mismo MVP mínimo que esperas de los estudiantes al abordar los puntos problemáticos comunes: flujo de página, color, fuente.
 - Oportunidades de flujo de página CSS:
    - header:
-     - center h1
-     - navegación flotante hacia la esquina superior derecha
-     - muestra listas de elementos como bloque en línea para la lista horizontal
+     - center h1.
+     - navegación flotante hacia la esquina superior derecha.
+     - muestra listas de elementos como bloque en línea para la lista horizontal.
    - main:
-     - cambia el ancho del artículo, mostrar 3 artículos en línea
+     - cambia el ancho del artículo, mostrar 3 artículos en línea.
    - footer:
-     - copyright movidos al centro inferior
-     - vertical sitemap con enlaces
+     - copyright movidos al centro inferior.
+     - vertical sitemap con enlaces.
 - Muestra la manipulación básica de color y fuente de página, clase y elementos individuales.
 
 ## Vocabulario Nuevo 
