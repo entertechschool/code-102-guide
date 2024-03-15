@@ -18,10 +18,9 @@ Revisa estos recursos y **agrega una nueva página a tu sitio web reading-notes*
 ## Revisar
 
 * [Referencia CSS ](https://developer.mozilla.org/es/docs/Web/CSS/Reference){:target="_blank"}
-* [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/){:target="_blank"}
+* [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/){:target="_blank"} (Conversa sobre este artículo con tus instructores).
 
 ## Responde
-
 
 1. ¿Cuál es el propósito de CSS?
 2. ¿Cuáles son las tres formas de insertar CSS en tu proyecto?
