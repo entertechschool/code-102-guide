@@ -10,7 +10,7 @@ Revisa estos recursos y **agrega una nueva página a tu repositorio reading-note
 
 * [Qué es CSS](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS){:target="_blank"}
 
-## leer y experimentar
+## Leer y experimentar
 
 * [Cómo insertar CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics){:target="_blank"}
 * [Colores CSS](https://developer.mozilla.org/es/docs/Web/CSS/color){:target="_blank"}
@@ -18,10 +18,9 @@ Revisa estos recursos y **agrega una nueva página a tu repositorio reading-note
 ## Revisar
 
 * [Referencia CSS ](https://developer.mozilla.org/es/docs/Web/CSS/Reference){:target="_blank"}
-* [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/){:target="_blank"}
+* [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/){:target="_blank"} (Conversa sobre este artículo con tus instructores).
 
 ## Responde
-
 
 1. ¿Cuál es el propósito de CSS?
 2. ¿Cuáles son las tres formas de insertar CSS en tu proyecto?

@@ -20,7 +20,7 @@ Para la demostración en clase debes dividir la pantalla entre VSCode y Chrome p
 
 ### Revisar diapositivas y notas del presentador
 
-Practica el tiempo y el lenguaje para cada diapositiva en el [Slide Deck] (https://codefellows.github.io/common_curriculum/slides/template/index.html?slides=/code-102-guide/curriculum/class-05/slides /slides.md).
+Practica el tiempo y el lenguaje para cada diapositiva en el [Slide Deck] (https://codefellows.github.io/common_curriculum/slides/template/index.html?slides=/code-102-guide/curriculum/class-05/slides/slides.md).
 
 Revisa las notas del presentador en cada diapositiva para poder expresarlas con **tus propias palabras**.
 
@@ -39,7 +39,7 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 ## Preguntas y desafíos esperados de los estudiantes
 
 - Los estudiantes podrían tener dificultades para conectar sus archivos CSS externos a su archivo HTML.
-- Cuando a los estudiantes se les muestran números de punto flotante, ocurren problemas. Aprovecha las oportunidades de depuración.
+- Cuando a los estudiantes se les muestra elementos flotantes (float: left), ocurren problemas. Aprovecha el depurador de Chrome.
 - Los estudiantes intentarán pasar un tiempo significativo en CSS. Fomenta un MVP mínimo y anímalo a que vuelva a visitarlo más adelante.
 
 ## Comentarios y notas varios
