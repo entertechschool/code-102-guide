@@ -11,7 +11,7 @@
 - Review de la clase anterior.
    - Comparte tu aprendizaje
 - JavaScript
-   - Resumen del Código 101
+   - Resumen de Code 101
    - Ejercicio de discusión
 - Mockup to Markup
    - Demostración: input y output
