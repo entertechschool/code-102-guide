@@ -18,9 +18,9 @@ Cada nueva tarea que aprende la computadora puede recibir un nombre. Esto lo con
 
 *Todas las tareas deben entregarse antes de la medianoche. Dedica un par de minutos a repasar cada tarea en Canvas antes de la hora de lectura y laboratorio.*
 
-- Lab: 07 - Programación con JS
-- Read: 07 - Programación con JS
-- Review: Clase 07 - Programación con JS
+- Lab 07: Programación con JavaScript
+- Read 07: Programación con JavaScript
+- Test 07: Programación con JavaScript
 
 ## Temas principales de la conferencia y flujo general
 
@@ -37,16 +37,16 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 | 0:00 | 30 minutos | Review JS - Trabajo de demostración  |
 | 0:30 | 30 minutos | Programación - Input/Process/Output |
 | | | Enseñe el ejercicio del robot
-| 1:00 | 45 minutos | Read 07 Programación con JS |
+| 1:00 | 45 minutos | Read 07: Programación con JS |
 | Descanso | | |
 | 1:45 | 30 minutos | Funciones de demostración en vivo: qué, por qué, cómo/refactorización|
-| 2:15 | 45 minutos | Lab 07 Programación con JS |
+| 2:15 | 45 minutos | Lab 07: Programación con JS |
 | 3:00 | | Fin (Pista del día: 60m Almuerzo) |
 
 ## Preguntas y desafíos esperados de los estudiantes
 
-- Los estudiantes pueden intentar js más allá del alcance de 102
-- Aclarar que nos gustaría que los estudiantes dupliquen la demostración en su código. Traducir el código de demostración a su caso de uso resultará lo suficientemente desafiante para el alcance de 102
+- Los estudiantes pueden intentar JavaScript más allá del alcance del curso code 102.
+- Indica a los estudiantes que dupliquen la demostración en su código. Duplicar el código resultará lo suficientemente desafiante para el alcance del code102.
 - Es posible que aún tengas dificultades para conectarse, especialmente con el uso de varios scripts en documentos HTML.
 
 ## Comentarios y notas varios
@@ -56,7 +56,7 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 - Experimenta el código tanto como sea posible, prueba diferentes escenarios, comete errores y depura.
 - Aunque replit se puede utilizar para crear demostraciones de clase y almacenar notas, durante la demostración de clase VSCode es la herramienta que utilizaras. La expectativa es que realizes lo mismo (aprender las herramientas y prepararse para el éxito 201)
 
-## Vocabulario Nuevo
+## Nuevo Vocabulario
 
 - Script: se utiliza para definir un script del lado del cliente o una referencia al código JavaScript que se ejecutará.
 - Programmatic problem solving - Es un enfoque para la resolución de problemas donde usted programa o planifica, paso a paso, el enfoque de su problema.

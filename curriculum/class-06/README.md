@@ -14,13 +14,13 @@
    - Resumen del Código 101
    - Ejercicio de discusión
 - Mockup to Markup
-   - Demostración: entrada y salida
+   - Demostración: input y output
    - Laboratorio: planificar y construir
 
 ## Nuevo Vocabulario
 
 - JavaScript
-- condicionales
-- operadores
-- tipos de datos
-- variable
+- Condicionales
+- Operadores
+- Tipos de datos
+- Variable

@@ -20,17 +20,17 @@ Conceptos que debes introducir para familiarizarte con JS:
 Ejemplos de JS para agregar a su base de código:
 
 1. input
-     - Utilice `prompt` para obtener información del usuario (¿Quizás la hora actual?)
+     - Utiliza `prompt` para obtener información del usuario (¿Quizás la hora actual?).
 
 1. processing  (en este caso, generación condicional de contenido dinámico)
-     - Utilizando la entrada Hora, muestra un bloque "si otra cosa".
+     - Utilizando la entrada Hora, muestra un bloque "if else".
 
 1. output
-     - Mostrar a los estudiantes `document.write`
-     - Mostrar método alternativo de salida: `console.log()`
+     - Muestra a los estudiantes `document.write`.
+     - Muestra el método alternativo de salida: `console.log()`.
 
-Pregunte a los estudiantes cómo les gustaría integrar contenido dinámico en su sitio. Algunas ideas:
+Pregunta a los estudiantes cómo les gustaría integrar contenido dinámico a su sitio web. Algunas ideas:
 
 - Pregunta el nombre del usuario y muestralo en un saludo.
-- Pregunta la edad o cumpleaños y muestralo en el contenido selectivo según la edad
-- Pregunta la ciudad o el estado del usuario y, para ciertos valores, brinde información específica (¿Clasificación? ¿Conjetura sobre el clima?).
+- Pregunta la edad o cumpleaños y muestralo en el contenido selectivo basado en la edad.
+- Pregunta la ciudad o estado del usuario y, para ciertos valores, brinda información específica (¿Clasificación? ¿predicción del clima?).

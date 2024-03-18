@@ -1,4 +1,4 @@
-# Resolución programática de problemas con funciones
+# Resolución de problemas con funciones: un enfoque practico
 
 ## Instrucciones de demostración
 
