@@ -8,7 +8,7 @@ Input y Output con `prompt` y `document.write`
 
 1. Revisa la lectura, el laboratorio y el código de demostración.
 1. Para ejecutar el ejemplo JS en VSCode, instale:
-     - <https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner>
+     - [Extension VSCODE "Code Runner"](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 ## Asignaciones
 
