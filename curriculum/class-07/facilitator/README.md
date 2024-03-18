@@ -53,19 +53,19 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 
 - Destaca la importancia del uso de nombres apropiados en funciones, los nombres reflejan acción. Revisa las orientaciones dadas sobre las variables.
 - Declara funciones de 2 maneras
-- Vive el código tanto como sea posible, prueba diferentes escenarios, cometa errores y depura
+- Experimenta el código tanto como sea posible, prueba diferentes escenarios, comete errores y depura.
 - Aunque replit se puede utilizar para crear demostraciones de clase y almacenar notas, durante la demostración de clase VSCode es la herramienta que utilizaras. La expectativa es que realizes lo mismo (aprender las herramientas y prepararse para el éxito 201)
 
 ## Vocabulario Nuevo
 
 - Script: se utiliza para definir un script del lado del cliente o una referencia al código JavaScript que se ejecutará.
 - Programmatic problem solving - Es un enfoque para la resolución de problemas donde usted programa o planifica, paso a paso, el enfoque de su problema.
-- Expression: Es cualquier código que se evalúa y se resuelve en un valor.
-- Operator - =, &&, || son ejemplos de operadores.
-- Function
-   - Declaration: define una función. Puede tomar parámetros.
+- Expresión: Es cualquier código que se evalúa y se resuelve en un valor.
+- Operadores: - =, &&, || son ejemplos de operadores.
+- Funcion
+   - Declaración: define una función. Puede tomar parámetros.
    - Call: pasa el control (y a veces los argumentos) a una función. También conocido como invocación.
-   - Parameters: Es un conjunto de variables que una función espera usar mientras ejecuta el código dentro de la función. Estos tienen alcance local y solo están disponibles dentro de la función.
-   - Arguments: Es un conjunto de variables pasadas a llamar a una función (que la función espera) para usarse dentro de ella.
-   - Return value: Es un valor que se envía desde una función para usarse fuera del código de función.
+   - Parametros: Es un conjunto de variables que una función espera usar mientras ejecuta el código dentro de la función. Estos tienen alcance local y solo están disponibles dentro de la función.
+   - Argumentos: Es un conjunto de variables pasadas a llamar a una función (que la función espera) para usarse dentro de ella.
+   - Valor de retorno: Es un valor que se envía desde una función para usarse fuera del código de función.
 - Refactoring: Es el acto de cambiar el código para cumplir con otros estándares, hacerlo más legible o más eficiente.
