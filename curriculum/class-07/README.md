@@ -19,13 +19,13 @@
 ## Nuevo vocabulario
 
 - Script
-- Resolución de problemas programáticos.
+- Programmatic problem solving.
 - Expresión
 - Operador
 - Función
-   - Declaration
+   - Declaración
    - Call
-   - Parameters
-   - Arguments
-   - Return value
+   - Parametros
+   - Argumentos
+   - Valor de retorno
 - Refactorización
