@@ -41,7 +41,7 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 ## Preguntas y desafíos esperados de los estudiantes
 
 - Puedes intentar javascript más allá del alcance del curso code102.
-- Aclara que nos gustaría que los estudiantes dupliquen la demostración en su código. Traducir el código de demostración te resultará lo suficientemente desafiante para el alcance de 102
+- Indica a los estudiantes que dupliquen la demostración en su código. Traducir el código de demostración te resultará lo suficientemente desafiante para el alcance de 102
 - Es posible que aún tengas dificultades para conectarse, especialmente con el uso de varios scripts en documentos HTML.
 
 ## Comentarios y notas varios
