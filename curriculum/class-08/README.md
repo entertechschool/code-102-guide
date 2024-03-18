@@ -9,20 +9,20 @@
 
 - Review de la clase anterior.
    - Comparte tu aprendizaje
-- Computer logic
+- Lógica computacional
    - Resumen: lectura de debate
 - Lectura de discusión
    - Read 08: Operadores y Bucles
 - Bucles de computadora
    - Demostración: bucles `while` y `for`
    - Tablas de verdad
-   - Laboratorio: ¡Bucle y bucle!
+   - Lab 08: Operadores y Bucles
 
 ## Nuevo Vocabulario
 
 - loop
 - while
 - for
-- conditión
-- increment
-- decrement
+- Condicionales
+- Incrementador
+- Decrementador
