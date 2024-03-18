@@ -20,7 +20,7 @@
 ## Nuevo Vocabulario
 
 - JavaScript
-- condicionales
-- operadores
-- tipos de datos
-- variable
+- Condicionales
+- Operadores
+- Tipos de datos
+- Variable
