@@ -51,7 +51,7 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 
 ## Comentarios y notas varios
 
-- Destaca la importancia de buenos nombres de funciones, los nombres reflejan acción. Revisa las orientaciones dadas sobre las variables.
+- Destaca la importancia del uso de nombres apropiados en funciones, los nombres reflejan acción. Revisa las orientaciones dadas sobre las variables.
 - Declara funciones de 2 maneras
 - Vive el código tanto como sea posible, prueba diferentes escenarios, cometa errores y depura
 - Aunque replit se puede utilizar para crear demostraciones de clase y almacenar notas, durante la demostración de clase VSCode es la herramienta que utilizaras. La expectativa es que realizes lo mismo (aprender las herramientas y prepararse para el éxito 201)
