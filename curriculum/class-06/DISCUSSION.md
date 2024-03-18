@@ -8,7 +8,7 @@ Revisa estos recursos y **crea una página en tu repositorio reading-notes** que
 
 ## Leer 
 
-- [Introducción a JS -Parrafo](https://developer.mozilla.org/es/docs/Web/JavaScript){:target="_blank"}
+- [Introducción corta a JS](https://developer.mozilla.org/es/docs/Web/JavaScript){:target="_blank"} (No ir hacia otros enlaces de este artículo).
 - [Introducción a Javascript - Output básicos](https://code-maven.com/introduction-to-javascript){:target="_blank"}
 - [Javascript input con prompt y confirm](https://es.javascript.info/alert-prompt-confirm){:target="_blank"}
 
