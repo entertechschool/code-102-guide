@@ -8,9 +8,9 @@ Revisa el wireframe de tu página. Mira el contenido y seleccione algunos lugare
 
 Agrega al menos 3 componentes dinámicos a tu página web. Estos pueden basarse en los input del usuario u otros tipos de inputs dinamicos.
 
-Asegurate de que al menos uno de los componente dinámico se base en el input del usuario.
+Asegurate que al menos uno componente dinámico deba basarse en el input del usuario.
 
-Asegurate de que al menos uno de los componente dinámico utilize una declaración condicional para determinar el resultado.
+Asegurate que al menos uno de los componente dinámico utilize una declaración condicional para determinar la salida.
 
 ### Extender los objetivos
 
@@ -20,4 +20,4 @@ Si el usuario te da un color, ¿puedes configurar una parte de tu página para q
 
 ### Instrucciones de envío
 
-Implementa tu página web dinámica y comparte la URL pública aquí. ¡Mira también lo que hicieron tus compañeros de clase!
+Implementa tu página web dinámica y comparte la URL. ¡Mira también lo que hicieron tus compañeros de clase!
