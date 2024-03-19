@@ -4,7 +4,7 @@ A continuación se muestra una colección de recursos de distintos tipos y longi
 
 Revisa estos recursos y **crea una página en tu repositorio reading-notes** que resuma los temas que aprendiste como si estuvieras presentando el material a un amigo sin conocimientos técnicos interesado en aprender sobre esto.
 
-<strong style="color: green">Recordatorio:</strong> *todas tus tareas de notas de lectura deben realizarse localmente, en VS Code. ¡Los nuevos archivos y cambios se reflejarán en GitHub usando tus nuevas habilidades de Git-flow! (Recuerda... A-C-P)*
+<strong style="color: green">Recordatorio:</strong> *todas tus tareas de notas de lectura deben realizarse localmente, en VS Code. ¡Los nuevos archivos y cambios se reflejarán en GitHub usando tus nuevas habilidades de Git! (Recuerda... A-C-P)*
 
 ## Leer
 
