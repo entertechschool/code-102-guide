@@ -1,4 +1,4 @@
-# Demostración: JavaScript en acción
+# Demostración: JavaScript en Acción
 
 ## Instrucciones de demostración
 
