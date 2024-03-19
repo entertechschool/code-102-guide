@@ -31,7 +31,7 @@ Clona tu repositorio reading-notes en tu computadora local, para que puedas real
      - Después de cada cambio significativo, A-C-P.
      - Escribe mensajes de confirmación que expliquen POR QUÉ realizastes los cambios, no cuáles fueron los cambios.
 
-### Extender los objetivos
+### Logros adicionales
 
 ¿Qué te enseñó este ejercicio? Agrega una página adicional a tu sitio de notas de lectura para documentar tus pensamientos y observaciones.
 
