@@ -10,7 +10,7 @@ Utiliza una aplicación de paleta de colores para seleccionar la mejor combinaci
 
 Ahora es un buen momento para desarrollar tu habilidad de busqueda en Google. A medida que identifiques cosas específicas que te gustaría lograr en tu diseño, intenta realizar una búsqueda en Google que te proporcione la respuesta. Implementa lo que encuentres para practicar la sintáxis CSS.
 
-### Objetivos adicionales
+### Logros Adicionales
 
 - Intenta utilizar algunos métodos diferentes para especificar tus colores: códigos hexadecimales (3 o 6 dígitos), rgb(), hsl()...
 - ¿Hay algún lugar donde pueda modificar la opacidad a mi gusto?
