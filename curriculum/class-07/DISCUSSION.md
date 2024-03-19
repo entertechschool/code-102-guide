@@ -6,25 +6,26 @@ Revisa estos recursos y **crea una página en tu repositorio reading-notes** que
 
 <strong style="color: green">Recordatorio:</strong> *todas tus tareas de notas de lectura deben realizarse localmente, en VS Code. ¡Los nuevos archivos y cambios se reflejarán en GitHub usando tus nuevas habilidades de Git-flow! (Recuerda... A-C-P)*
 
-## Leer
+## Lee
+### Control de Flujo
+* [Control Flow - MDN (en) ](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow){:target="_blank"}
+* [Control de Flujo (alt. ES)](https://arielfuggini.com/javascript-definitivo-vol1/control-de-flujo/){:target="_blank"}
 
-* [Flujo de Control - MDN ](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow){:target="_blank"}
-
-## Leer y demostrar
+## Lee y practica
 
 * [Funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions){:target="_blank"}
 * [Operadores](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_operators){:target="_blank"}
 
-## Revisar 
+## Revisa
 
 * [Expresiones y operadores](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators){:target="_blank"}
 * [Funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions){:target="_blank"}
 
 ## Responde
 
-1. ¿Qué es el "control flow"?
-2. ¿Qué es una "función" de JavaScript?
-3. ¿Qué significa "invoke" o "call"  una función?
+1. ¿Qué es "Control Flow" (Control de Flujo)?
+2. ¿Qué es una "function" (Función) de JavaScript?
+3. ¿Qué significa "invoke" o "call" en una función?
 4. ¿Para qué sirven los paréntesis `()` cuando defines una función?
 
 ## Instrucciones de envío
