@@ -25,7 +25,7 @@ Además, los siguientes comandos le mostrarán cómo configurar algunos elemento
 - `echo $PS1`
 - `cat ~/.gitconfig`
 
-### Extender los objetivos
+### Logros adicionales
 
 Ahora que tienes tu terminal en funcionamiento, regresa a la tarea de lectura y realiza tu propia versión de los comandos en tu computadora.
 
