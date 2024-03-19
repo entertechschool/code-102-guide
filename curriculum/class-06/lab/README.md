@@ -8,7 +8,7 @@ Revisa el wireframe de tu página. Mira el contenido y seleccione algunos lugare
 
 Agrega al menos 3 componentes dinámicos a tu página web. Estos pueden basarse en los input del usuario u otros tipos de inputs dinamicos.
 
-Asegurate que al menos uno componentes dinámicos deba basarse en el input del usuario.
+Asegurate que al menos uno de los componentes dinámicos deba basarse en el input del usuario.
 
 Asegurate que al menos uno de los componentes dinámicos utilice una declaración condicional para determinar la salida.
 
