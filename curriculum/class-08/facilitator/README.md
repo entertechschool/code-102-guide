@@ -40,22 +40,22 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 
 ## Preguntas y desafíos esperados de los estudiantes
 
-- Puedes intentar javascript más allá del alcance del curso code102.
+- Puedes practicar javascript más allá del alcance del curso code102.
 - Indica a los estudiantes que dupliquen la demostración en su código. Duplicar el código resultará lo suficientemente desafiante para el alcance del code102.
-- Es posible que aún tengas dificultades para conectarse, especialmente con el uso de varios scripts en documentos HTML.
+- Es posible que aún tengas dificultades para conectarte, especialmente con el uso de varios scripts en documentos HTML.
 
 ## Comentarios y notas varios
 
 - Destaca la importancia del uso de nombres apropiados en funciones, los nombres reflejan acción. Revisa las orientaciones dadas sobre las variables.
 - Declara funciones de 2 maneras.
 - Experimenta el código tanto como sea posible, prueba diferentes escenarios, comete errores y depura.
-- Aunque replit se puede utilizar para crear demostraciones de clase y almacenar notas, durante la demostración de clase VSCode es la herramienta que utilizaras. La expectativa es que realizes lo mismo  (aprender las herramientas y prepararse para el éxito 201)
+- Aunque replit se puede utilizar para crear demostraciones de clase y almacenar notas, durante la demostración de clase VSCode es la herramienta que utilizaras. La expectativa es que realizes lo mismo  (aprender las herramientas y prepararte para el éxito 201)
 
 ##  Vocabulario Nuevo
 
 - Bucles: secuencia de instrucciones que se repiten continuamente hasta que se alcanza una condición.
 - While: tipo de bucle que se repite hasta que se alcanza una condición booleana.
-- for - Un tipo de bucle que se repite una cantidad específica de veces.
-- Condicionales: conjunto de reglas que determinan el resultado si "algo sucede".
-- Incrementador - aumentar.
-- Decrementador - Para disminuir.
+- for: Un tipo de bucle que se repite una cantidad específica de veces.
+- Condicionales: conjunto de reglas que determinan el resultado si "algo ocurre".
+- Incrementador: para aumentar.
+- Decrementador: para disminuir.
