@@ -21,7 +21,7 @@ Utiliza estos recursos para ponerte en marcha:
 1. Utiliza al menos 5 funcionalidades diferentes de Markdown para estructurar tu página
 1. Asegúrate de presentarte e incluir un enlace a la página de tu portafolio de GitHub
 
-### Extender los objetivos
+### Logros adicionales
 
 ¡Refuerza tu página de perfil! Añade tu imagen, tu biografía, información de contacto... todo lo que te resulte cómodo incluir. Recuerda, esta página actuará como una muestra de tus habilidades de desarrollador, ¡así que haz que se vea genial!
 
