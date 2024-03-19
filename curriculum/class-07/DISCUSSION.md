@@ -8,13 +8,14 @@ Revisa estos recursos y **crea una página en tu repositorio reading-notes** que
 
 ## Lee
 ### Control de Flujo
-* [Control Flow - MDN (en) ](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow){:target="_blank"}
-* [Control de Flujo (alt. ES)](https://arielfuggini.com/javascript-definitivo-vol1/control-de-flujo/){:target="_blank"}
+* [Control Flow - MDN (EN) ](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow){:target="_blank"}
+* [Control de Flujo (alternativa en ES)](https://arielfuggini.com/javascript-definitivo-vol1/control-de-flujo/){:target="_blank"}
+  
+  *(leer hasta "Sentencia condicional")
 
 ## Lee y practica
-
-* [Funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions){:target="_blank"}
-* [Operadores](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_operators){:target="_blank"}
+* [Functions (Funciones)](https://www.w3schools.com/js/js_functions.asp){:target="_blank"}
+* [Operators (Operadores)](https://www.w3schools.com/js/js_operators.asp){:target="_blank"}
 
 ## Revisa
 
