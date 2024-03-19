@@ -12,7 +12,7 @@ Asegurate que al menos uno componentes dinámicos deba basarse en el input del u
 
 Asegurate que al menos uno de los componentes dinámicos utilice una declaración condicional para determinar la salida.
 
-### Extender los objetivos
+### Logros adicionales
 
 Prueba la función `confirm()`, además de `prompt()`. ¿Cuándo es el momento adecuado para usar esto?
 
