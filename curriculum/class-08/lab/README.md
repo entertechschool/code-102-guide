@@ -13,7 +13,7 @@ Trabaja desde tu código base existente. Si aún no es un repositorio de Git, t�
     - Utiliza un bucle en tu código JavaScript para mostrar la imagen tantas veces.
     - ¿Cómo podrías utilizar funciones para hacer que tu código sea más legible?
 
-### Extender los objetivos
+### Logros adicionales
 
 A medida que visualizes cada imagen, muestra un contador al lado que indica el número de la imagen.
 
