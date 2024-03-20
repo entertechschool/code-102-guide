@@ -6,7 +6,7 @@ Revisa estos recursos y **crea una página en tu repositorio reading-notes** que
 
 <strong style="color: green">Recordatorio:</strong> *todas tus tareas de notas de lectura deben realizarse localmente, en VS Code. ¡Los nuevos archivos y cambios se reflejarán en GitHub usando tus nuevas habilidades de Git! (Recuerda... A-C-P)*
 
-## Leer
+## Lee
 
 * [Expresiones y operadores](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators){:target="_blank"}
    * Centrate únicamente en los "Operadores de comparación" y los "Operadores de asignación".
