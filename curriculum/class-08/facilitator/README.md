@@ -2,7 +2,7 @@
 
 Debes completar la discusión de la lectura sobre cómo funcionan las computadoras ANTES de la clase.
 
-Luego, utiliza los bucles while y for. Es posible que necesites  algo de tiempo para acostumbrarte a la forma en que las computadoras hacen bucles. Exponlo en una demostración de validación de entradas y usa bucles para iterar una cantidad de veces especificada indicada por el usuario.
+Luego, utiliza los bucles while y for. Es posible que necesites  algo de tiempo para acostumbrarte a la forma en que las computadoras ejecutan los bucles. Exponlo en una demostración de validación de entradas y usa bucles para iterar una cantidad de veces especificada indicada por el usuario.
 
 ## Preparación
 
