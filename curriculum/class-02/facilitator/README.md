@@ -37,16 +37,16 @@ Revisa las notas del presentador en cada diapositiva para poder expresarlas con 
 | 0:15 | 15 minutos | Herramientas para desarrolladores |
 | 0:30 | 20 minutos | Demostración Terminal/GUI |
 | 0:50 | 10 minutos | Demostración en vivo HTML en VS Code / Observaciones |
-| 1:00 | 30 minutos | Read 02 La computadora del Programador |
+| 1:00 | 30 minutos | Read 02: La computadora del Programador |
 | Descanso | | |
 | 1:30 | 10 minutos | Abstracción |
-| 1:40 | 80 minutos | Lab 02 ¡¡La computadora del Programador / Installfest!!|
+| 1:40 | 80 minutos | Lab 02:La computadora del Programador / Installfest!|
 | 3:00 | | Fin |
 
 ## Preguntas y desafíos esperados de los estudiantes
 
-- sistemas operativos obsoletos
-- máquinas usadas con configuraciones de desarrollo existentes
+- sistemas operativos obsoletos.
+- máquinas usadas con configuraciones de desarrollo existentes.
 - Se espera que los estudiantes intenten ejecutar comandos de terminal asignados sin completar la configuración.
 - considere compartir comentarios 102 anteriores sobre las lecturas. Señale que las lecturas están en las tareas de Canvas y que los estudiantes pueden revisar esas lecturas (posiblemente la noche anterior).
 - `eslint` ha causado errores a algunos estudiantes en el pasado en Windows. Si esto ocurre, intente forzar una versión que funcione.
@@ -77,8 +77,8 @@ Los usuarios de Windows tienen un conjunto adicional de pasos para instalar la l
 
 ## Comentarios y notas varios
 
-- El mayor error en la configuración de WSL: lectura de instrucciones. Los estudiantes no comprenden conceptualmente, por lo tanto, es más probable que se presenten obstáculos durante el festival de instalación. Anime a los estudiantes a seguir el proceso paso a paso y hacer preguntas según sea necesario.
-- Se necesitan permisos de nivel de administrador si la computadora fue utilizada por hermanos o cónyuges, pueden surgir problemas
+- El mayor error en la configuración de WSL(lectura de instrucciones). Los estudiantes no comprenderan conceptualmente, por lo tanto, es más probable que presenten obstáculos durante el festival de instalación. Anima a los estudiantes a seguir el proceso paso a paso y hacer preguntas según sea necesario.
+- Se necesitan permisos de nivel de administrador si la computadora fue utilizada por hermanos o cónyuges, pueden surgir problemas.
 
 ## Vocabulario Nuevo
 
