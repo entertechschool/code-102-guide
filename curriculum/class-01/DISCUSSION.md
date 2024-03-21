@@ -12,7 +12,7 @@ Ideas de notas:
 * Notas en forma de esquema
 * Hoja de trabajo para completar los espacios en blanco con conceptos clave
 
-## Leer y marcar
+## Lee
 
 * [Primeros pasos](https://markdown.es){:target="_blank"}
    * Solo lectura de las secciones **"Qué es Markdown"** y **"Por qué utilizar Markdown"**
