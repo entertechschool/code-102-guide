@@ -13,7 +13,7 @@ Con suerte, notarán cosas como:
 - Etiquetas de cierre automático
 - Ediciones de varias líneas
 
-## Demostración de terminal
+## Demostración en la terminal
 
 Explicar:
 
