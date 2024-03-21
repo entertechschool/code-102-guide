@@ -11,7 +11,7 @@ Revisa estos recursos y **crea una página en tu repositorio reading-notes** que
 * [Expresiones y operadores](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators){:target="_blank"}
    * Centrate únicamente en los "Operadores de comparación" y los "Operadores de asignación".
 * [Bucles](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration){:target="_blank"}
-   * Concéntrate únicamente en los bucles `for Statement` y ` while Statement`.
+   * Concéntrate únicamente en los bucles `for Statement` y `while Statement`.
 
 ## Responde
 
