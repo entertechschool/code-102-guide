@@ -1,6 +1,6 @@
 # Demostración: editores de código y línea de comando
 
-## Demostración del editor de código
+## Demostración en el editor de código
 
 Para mostrar un editor de codigo en acción, escribe algún HTML de ejemplo en VS Code. Identifica las siguientes caracteristicas para ayudarte.
 
